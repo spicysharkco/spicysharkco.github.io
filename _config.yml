@@ -1,0 +1,8 @@
+title: spicysharkco
+description: Notes from running fleets of coding agents on hardware I own.
+url: https://spicysharkco.github.io
+timezone: UTC
+theme: minima
+plugins:
+  - jekyll-feed
+twitter_username: spicysharkco
