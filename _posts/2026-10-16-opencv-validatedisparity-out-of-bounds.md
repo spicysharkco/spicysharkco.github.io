@@ -66,7 +66,7 @@ The work buffer is on the heap only above 132 columns (2 x 133 = 266 > 264). A n
 
 [#28507](https://github.com/opencv/opencv/pull/28507) was closed by its author the day it opened: "Closing this PR in favor of a clean re-submission." [#28508](https://github.com/opencv/opencv/pull/28508) was closed in March 2026, and its thread gives no reason. Before that, @asmorkalov saw no crash on Linux, with or without ASan, and asked for a test that reaches the guarded index.
 
-On #30316, @asmorkalov approved with no text and merged. Right after the merge he asked: "Sounds like the same issue exists in 5.x. Could you submit complementary PR there?" It does: the 5.x copy in `modules/stereo/src/stereosgbm.cpp` still has the unguarded lines as I write. That port is the open item.
+On #30316, @asmorkalov approved with no text and merged. Right after the merge he asked: "Sounds like the same issue exists in 5.x. Could you submit complementary PR there?" It does: the 5.x copy in `modules/stereo/src/stereosgbm.cpp` had the same unguarded lines. I sent the port, with the same test, as [#30344](https://github.com/opencv/opencv/pull/30344).
 
 ## Run it
 
