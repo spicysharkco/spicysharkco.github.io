@@ -84,9 +84,9 @@ In `pipe`, `p.err(errors.WithMessage(err, "read failed"))` became `p.errc <- err
 ## What review changed
 
 - @bheemareddy commented inline that the warning is noisy and should be debug, with a sketch that used a helper named `isConnTeardown`. Their own PR, #14810, took the remotedialer approach. They called this one "smaller fix and easily back portable", and @brandond went with it.
-- @brandond liked filtering `ECONNRESET` and `EPIPE` and suggested dropping the `errors.WithMessage` wrap. He gave no reason. His `isConnTeardown` used a type assertion, `err.(syscall.Errno)`.
+- @brandond liked filtering `ECONNRESET` and `EPIPE` and suggested dropping the `errors.WithMessage` wrap. They gave no reason. Their `isConnTeardown` used a type assertion, `err.(syscall.Errno)`.
 - I replied with `errors.As`, because a TCP error is not a bare `syscall.Errno`. That part was my suggestion, not the reviewer's. On a loopback reset I got a `*net.OpError`, the assertion gave `false`, and `errors.Is(err, syscall.ECONNRESET)` gave `true`.
-- Then brandond said his intent was to ignore normal closure, so these errors should not be logged even at debug. He pushed that and dropped the log-level test. The merged helper uses `errors.Is`, and it also keeps `net.ErrClosed`, which I had dropped.
+- Then brandond said the intent was to ignore normal closure, so these errors should not be logged even at debug. They pushed that and dropped the log-level test. The merged helper uses `errors.Is`, and it also keeps `net.ErrClosed`, which I had dropped.
 
 ## How the test catches it
 
