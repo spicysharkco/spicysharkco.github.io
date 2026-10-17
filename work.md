@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-35 merged pull requests in 16 repositories under 13 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-17.
+36 merged pull requests in 16 repositories under 13 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-17.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-17 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: accept non-string values in JSON secrets | [#1118](https://github.com/burningalchemist/sql_exporter/pull/1118) | 0 |
 | 2026-10-17 | [ome-projects/ome](https://github.com/ome-projects/ome) | \[Bugfix\] Drop stale env sources when merging runtime overrides | [#1234](https://github.com/ome-projects/ome/pull/1234) | 0 |
 | 2026-10-17 | [ome-projects/ome](https://github.com/ome-projects/ome) | \[Bugfix\] Restore BenchmarkJob manager registration | [#1232](https://github.com/ome-projects/ome/pull/1232) | 0 |
 | 2026-10-17 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: accept overlapping collector references | [#1117](https://github.com/burningalchemist/sql_exporter/pull/1117) | 0 |
