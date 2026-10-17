@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-39 merged pull requests in 16 repositories under 13 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-17.
+40 merged pull requests in 17 repositories under 14 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-17.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-17 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | recorder: fix height of VP9 tracks in fMP4 recordings | [#6359](https://github.com/bluenviron/mediamtx/pull/6359) | 0 |
 | 2026-10-17 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: do not cache a failed query under min\_interval | [#1121](https://github.com/burningalchemist/sql_exporter/pull/1121) | 0 |
 | 2026-10-17 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: keep the config when a reload fails | [#1120](https://github.com/burningalchemist/sql_exporter/pull/1120) | 0 |
 | 2026-10-17 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: report a scrape mode change on reload | [#1119](https://github.com/burningalchemist/sql_exporter/pull/1119) | 0 |
