@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-32 merged pull requests in 16 repositories under 13 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-17.
+33 merged pull requests in 16 repositories under 13 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-17.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-17 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: accept overlapping collector references | [#1117](https://github.com/burningalchemist/sql_exporter/pull/1117) | 0 |
 | 2026-10-17 | [apache/arrow-rs](https://github.com/apache/arrow-rs) | fix(csv): return an error instead of panicking on dictionary key overflow | [#11628](https://github.com/apache/arrow-rs/pull/11628) | 0 |
 | 2026-10-17 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: keep jobs\[\] filters per request in the metrics handler | [#1116](https://github.com/burningalchemist/sql_exporter/pull/1116) | 0 |
 | 2026-10-17 | [ome-projects/ome](https://github.com/ome-projects/ome) | \[Bugfix\] Clear stale sources on environment overrides | [#1231](https://github.com/ome-projects/ome/pull/1231) | 0 |
