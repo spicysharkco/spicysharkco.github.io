@@ -5,7 +5,7 @@ permalink: /work/
 ---
 31 merged pull requests in 15 repositories under 12 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-17.
 
-| Merged | Repository | Pull request | Link | Days |
+| Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
 | 2026-10-17 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: keep jobs\[\] filters per request in the metrics handler | [#1116](https://github.com/burningalchemist/sql_exporter/pull/1116) | 0 |
 | 2026-10-17 | [ome-projects/ome](https://github.com/ome-projects/ome) | \[Bugfix\] Clear stale sources on environment overrides | [#1231](https://github.com/ome-projects/ome/pull/1231) | 0 |
