@@ -2,6 +2,7 @@
 layout: post
 title: "Six things code review caught in my upstream pull requests"
 date: 2026-10-16
+tags: [field-notes, code-review, open-source]
 ---
 
 Apart from k3s #14810, which is another contributor's, I opened the pull requests below between 2026-10-05 and 2026-10-16, in a number of open-source projects, and most of them changed in review. The same few kinds of comment kept coming back. This post lists six of them, with one or two pull requests as the example for each, and ends with questions to ask before opening one. Quotes are copied from the PR threads. Where a change was the reviewer's idea, I say so.

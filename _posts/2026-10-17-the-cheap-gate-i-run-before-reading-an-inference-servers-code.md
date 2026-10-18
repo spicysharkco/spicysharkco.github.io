@@ -2,6 +2,7 @@
 layout: post
 title: "The cheap gate I run before reading an inference server's code"
 date: 2026-10-17
+tags: [field-notes, security, ssrf]
 ---
 Model inference servers have a recurring weakness, and it is almost always the same shape:
 the server fetches a URL the client handed it, with no authentication and no check on

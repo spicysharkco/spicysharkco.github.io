@@ -2,6 +2,10 @@
 layout: post
 title: "An index that trusted the disparity map: the validateDisparity fix in OpenCV"
 date: 2026-10-16
+project: OpenCV
+pr: https://github.com/opencv/opencv/pull/30316
+status: merged
+tags: [media-vision, memory-safety, stereo]
 ---
 
 My fix for an out-of-bounds access in OpenCV's `cv::validateDisparity` was merged into the 4.x branch today as [PR #30316](https://github.com/opencv/opencv/pull/30316). It answers [issue #25367](https://github.com/opencv/opencv/issues/25367), filed in April 2024 as "crash and Unknown C++ exception when I invoke cv2.validateDisparity". Two earlier PRs for it were closed. The issue's snippet does not crash for me. The bug is real anyway, and a different input shows it.

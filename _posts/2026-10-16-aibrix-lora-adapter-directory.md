@@ -2,6 +2,10 @@
 layout: post
 title: "Two directories for one adapter: a Hugging Face download fix in AIBrix"
 date: 2026-10-16
+project: AIBrix
+pr: https://github.com/vllm-project/aibrix/pull/3126
+status: merged
+tags: [model-serving, lora, hugging-face]
 ---
 
 AIBrix's runtime handed the inference engine a different directory for the same LoRA adapter, depending on whether the adapter had been downloaded before. I fixed it by changing one argument ([PR #3126](https://github.com/vllm-project/aibrix/pull/3126), merged 2026-10-16, under three hours after I opened it). I found it while reading the runtime's artifact service. I found no open issue for it.

@@ -2,6 +2,10 @@
 layout: post
 title: "Encrypting every record to read one name: a fix in external-dns"
 date: 2026-10-16
+project: external-dns
+pr: https://github.com/kubernetes-sigs/external-dns/pull/6805
+status: merged
+tags: [kubernetes, performance, dns]
 ---
 
 external-dns synchronizes Kubernetes Services and Ingresses with DNS providers. With TXT encryption on, its TXT registry rendered and encrypted the labels of every record it owned, on every `Records()` call, only to read the name of the result. I sent the fix ([PR #6805](https://github.com/kubernetes-sigs/external-dns/pull/6805), merged 2026-10-16). In the PR's benchmark, with encryption on and an in-memory provider, one `Records()` call over 1,000 endpoints went from 512.59 ms to 23.47 ms and allocated 96.06% less. Then @mloiseleur found a case that my version, and the code it replaced, both got wrong, and sent a follow-up commit. That commit is part of the merged PR.

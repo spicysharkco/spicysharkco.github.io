@@ -2,6 +2,7 @@
 layout: post
 title: "Three review requests from this week, and what I changed"
 date: 2026-10-17
+tags: [field-notes, code-review, open-source]
 ---
 
 These are three requests from this week. All three arrived on 2026-10-17: two from reviewers and one from a bot's label. Each made me change something small, and each left a rule I now apply. [My earlier post on code review](/2026/10/16/six-things-code-review-caught.html) listed six things review caught. These are three new requests, though the first is a close cousin of that post's second point. Quotes are copied from the threads, and each status line is as of 2026-10-17.

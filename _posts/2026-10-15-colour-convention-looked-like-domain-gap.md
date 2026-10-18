@@ -2,6 +2,7 @@
 layout: post
 title: "A colour convention that looked like a sim-to-real gap"
 date: 2026-10-15
+tags: [field-notes, computer-vision, benchmarks]
 ---
 
 I built a render generator and a 20,000-image benchmark to ask one question. When a perception model is trained on renders and used on a camera, what does the synthetic data buy, and what does it cost? The testbed is chess-position recognition. The labels come from the scene state, so they are exact for the scene, and I can change one factor at a time.

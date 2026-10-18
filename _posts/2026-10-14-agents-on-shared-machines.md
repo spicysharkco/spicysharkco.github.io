@@ -2,6 +2,7 @@
 layout: post
 title: "Agents on shared machines: four ways they quietly hurt the host"
 date: 2026-10-14
+tags: [field-notes, agents, docker]
 ---
 
 I run a fleet of coding agents on machines I own. Most are shared: agents, my own work, and a few long-running services on the same box. Agents finish the task in front of them and do not notice what it did to the machine.

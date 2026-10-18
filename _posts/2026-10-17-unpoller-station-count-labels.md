@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made unpoller put its station counts under the right labels"
+title: "Label names declared in the wrong order: station counts in unpoller"
 date: 2026-10-17
+project: unpoller
+pr: https://github.com/unpoller/unpoller/pull/1110
+status: merged
+tags: [observability-data, prometheus, labels]
 ---
 
 `unpoller_device_stations` put the device tag in `station_type` and the station type in `tag`, and lost series too. I fixed it in [PR #1110](https://github.com/unpoller/unpoller/pull/1110), merged within two hours of opening it.

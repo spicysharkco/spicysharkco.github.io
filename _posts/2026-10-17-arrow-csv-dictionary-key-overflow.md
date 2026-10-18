@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made the arrow-csv reader return an error on dictionary key overflow"
+title: "A collect() that cannot return an error: a key overflow panic in arrow-csv"
 date: 2026-10-17
+project: arrow-rs
+pr: https://github.com/apache/arrow-rs/pull/11628
+status: merged
+tags: [observability-data, rust, error-handling]
 ---
 
 An `arrow-csv` reader panicked when a `Dictionary(Int8, Utf8)` column had 129 distinct values in one batch. I changed it to return `ArrowError::DictionaryKeyOverflowError` in [PR #11628](https://github.com/apache/arrow-rs/pull/11628). It closes [issue #11623](https://github.com/apache/arrow-rs/issues/11623) and was merged on 2026-10-17, about 10 hours and 38 minutes after I opened it. A value that cannot be parsed already came back as an error from the reader. This case now does too.

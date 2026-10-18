@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made mediamtx record the real height of VP9 streams"
+title: "Height read from the width: wrong VP9 height in mediamtx fMP4 recordings"
 date: 2026-10-17
+project: mediamtx
+pr: https://github.com/bluenviron/mediamtx/pull/6359
+status: merged
+tags: [media-vision, vp9, recording]
 ---
 
 mediamtx wrote the wrong height into every fMP4 recording of a non-square VP9 stream. I fixed it in [PR #6359](https://github.com/bluenviron/mediamtx/pull/6359), merged within fifteen minutes of opening it. The height was read from the width.

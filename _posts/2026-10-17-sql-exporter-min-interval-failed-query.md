@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made sql_exporter stop caching a failed query under min_interval"
+title: "The cache stored errors like results: min_interval in sql_exporter"
 date: 2026-10-17
+project: sql_exporter
+pr: https://github.com/burningalchemist/sql_exporter/pull/1121
+status: merged
+tags: [observability-data, caching, prometheus]
 ---
 
 With `min_interval` set, one failed query in sql_exporter kept returning the same error until the interval ended. I fixed it in [PR #1121](https://github.com/burningalchemist/sql_exporter/pull/1121), merged within twenty minutes of opening it. The cache stored the error like a result.

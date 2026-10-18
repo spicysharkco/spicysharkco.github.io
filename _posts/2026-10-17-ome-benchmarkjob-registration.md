@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I restored the BenchmarkJob registration that OME's manager had dropped"
+title: "A refactor dropped the webhook and controller: BenchmarkJob restored in OME"
 date: 2026-10-17
+project: OME
+pr: https://github.com/ome-projects/ome/pull/1232
+status: merged
+tags: [model-serving, webhooks, testing]
 ---
 
 On OME's main branch, creating a BenchmarkJob failed at admission. If it had passed, nothing would have reconciled it. The chart still declared a validating webhook for the kind, but the manager no longer registered that webhook or the controller. I restored both in [PR #1232](https://github.com/ome-projects/ome/pull/1232), merged 2026-10-17, about 2 hours and 25 minutes after I opened it.

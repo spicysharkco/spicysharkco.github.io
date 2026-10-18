@@ -2,6 +2,10 @@
 layout: post
 title: "The duplicate guard that never recorded a path"
 date: 2026-10-17
+project: AIBrix
+pr: https://github.com/vllm-project/aibrix/pull/3133
+status: merged
+tags: [model-serving, routing, testing]
 ---
 
 I found a set under `// avoid duplicates` that nothing wrote to. AIBrix's `appendCustomModelRouterPaths` checked it before appending a path, so repeated annotation entries became repeated HTTPRoute matches. I fixed it in [PR #3133](https://github.com/vllm-project/aibrix/pull/3133), merged 2026-10-17 about 1 hour 57 minutes after I opened it. The impact was narrow: identical matches did not change routing, but they used space near the 64-match limit.

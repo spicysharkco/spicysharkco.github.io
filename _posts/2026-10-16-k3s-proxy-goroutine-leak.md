@@ -2,6 +2,10 @@
 layout: post
 title: "Two goroutines, one receive: a leak in the k3s tunnel proxy"
 date: 2026-10-16
+project: k3s
+pr: https://github.com/k3s-io/k3s/pull/14811
+status: merged
+tags: [kubernetes, go, concurrency]
 ---
 
 k3s leaked a goroutine, its 32 KiB buffer and both connections whenever the two copy directions of a tunnel connection failed at about the same time. The reporter counted 254 stuck goroutines after about 20.5 hours on one single-node server. I sent the fix ([PR #14811](https://github.com/k3s-io/k3s/pull/14811), merged 2026-10-15): it deletes a `bool` and a method, and gives a channel a buffer of 2. @bheemareddy reported the bug in [issue #14787](https://github.com/k3s-io/k3s/issues/14787), with the cause, a standalone reproducer and a `sync.Once` fix.

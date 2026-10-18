@@ -2,6 +2,7 @@
 layout: post
 title: "Loading model weights can run a stranger's code"
 date: 2026-10-17
+tags: [field-notes, security, python]
 ---
 Downloading a model and loading it feel like reading data. For a lot of Python servers
 they are not. `torch.load` on a checkpoint, by default for years, unpickles it — and

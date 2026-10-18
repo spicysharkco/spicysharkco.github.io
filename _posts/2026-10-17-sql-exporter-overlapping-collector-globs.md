@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made sql_exporter accept collector references that overlap an earlier entry"
+title: "One condition did two jobs: overlapping collector globs in sql_exporter"
 date: 2026-10-17
+project: sql_exporter
+pr: https://github.com/burningalchemist/sql_exporter/pull/1117
+status: merged
+tags: [observability-data, config, globs]
 ---
 
 The README's own `collectors` example stopped sql_exporter at startup. I fixed the resolver in [PR #1117](https://github.com/burningalchemist/sql_exporter/pull/1117), merged 2026-10-17, 8 minutes and 4 seconds after I opened it. It counted a collector reference as known only if the reference added a new collector. A glob that matched only collectors already added looked like a typo.

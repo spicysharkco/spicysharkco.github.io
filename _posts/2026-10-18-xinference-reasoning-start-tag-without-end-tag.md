@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made xinference drop the start tag from a reasoning reply that never ended"
+title: "A parser branch that assumed no start tag: unfinished replies in Xinference"
 date: 2026-10-18
+project: Xinference
+pr: https://github.com/xorbitsai/inference/pull/5731
+status: merged
+tags: [model-serving, reasoning]
 ---
 
 A non-stream chat reply that stopped inside the thinking block, for example at `max_tokens`, came back with `<think>` at the front of `reasoning_content`. I fixed it in [PR #5731](https://github.com/xorbitsai/inference/pull/5731), merged about five hours after I opened it. It follows [my earlier xinference fix](https://spicyshark.co/2026/10/17/xinference-async-reasoning-leading-chunks.html).

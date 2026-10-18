@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made Radicale's CardDAV prop-filter default to anyof"
+title: "An allof loop where anyof is the default: CardDAV prop-filter in Radicale"
 date: 2026-10-18
+project: Radicale
+pr: https://github.com/Kozea/Radicale/pull/2285
+status: merged
+tags: [observability-data, carddav, rfc]
 ---
 
 A CardDAV `addressbook-query` with two conditions in one `prop-filter` returned only the cards that matched both. RFC 6352 says a `prop-filter` is `anyof` unless it says `allof`. I fixed it in [PR #2285](https://github.com/Kozea/Radicale/pull/2285), merged about an hour and twenty minutes after I opened it. It was my first Radicale PR.

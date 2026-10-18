@@ -2,6 +2,10 @@
 layout: post
 title: "An environment override kept the source it was meant to replace in OME"
 date: 2026-10-17
+project: OME
+pr: https://github.com/ome-projects/ome/pull/1231
+status: merged
+tags: [model-serving, environment-variables, testing]
 ---
 
 OME could replace an environment variable's text and leave its old source attached. A ConfigMap-backed entry then carried both a literal value and `valueFrom`, making the rendered workload invalid. I fixed the matching-entry assignment in [PR #1231](https://github.com/ome-projects/ome/pull/1231), merged 2026-10-17, about 59 minutes after I opened it.

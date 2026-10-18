@@ -2,6 +2,8 @@
 layout: post
 title: "Two URL lists: the adapter webhook and the runtime sidecar"
 date: 2026-10-17
+project: AIBrix
+tags: [model-serving, lora, webhooks]
 ---
 
 I found that AIBrix could admit an adapter URL and then reject it when the runtime sidecar tried to load it. I fixed two forms: the `hf://` alias in [PR #3130](https://github.com/vllm-project/aibrix/pull/3130), merged 2026-10-16 about 2 hours 27 minutes after I opened it, and an absolute path starting with `/` in [PR #3131](https://github.com/vllm-project/aibrix/pull/3131), merged 2026-10-17 about 6 hours 5 minutes after opening. The webhook and the sidecar kept separate lists of acceptable inputs.

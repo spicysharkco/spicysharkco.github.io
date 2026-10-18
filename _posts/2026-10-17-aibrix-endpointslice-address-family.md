@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made AIBrix match a ModelAdapter EndpointSlice to its Pods' address family"
+title: "A hardcoded IPv4 address type: ModelAdapter EndpointSlices in AIBrix"
 date: 2026-10-17
+project: AIBrix
+pr: https://github.com/vllm-project/aibrix/pull/3136
+status: merged
+tags: [model-serving, ipv6, endpointslices]
 ---
 
 AIBrix built every ModelAdapter EndpointSlice with `addressType: IPv4`, even when the Pods had IPv6 addresses. I fixed it in [PR #3136](https://github.com/vllm-project/aibrix/pull/3136), merged the same day, about twelve hours after I opened it. The family was a constant in the builder.

@@ -2,6 +2,10 @@
 layout: post
 title: "Reading git output with -z, and the test that could not run on Windows"
 date: 2026-10-16
+project: oh-my-openagent
+pr: https://github.com/code-yeongyu/oh-my-openagent/pull/10133
+status: merged
+tags: [observability-data, git, testing]
 ---
 
 oh-my-openagent prints a `[FILE CHANGES SUMMARY]` block after a task finishes. It lists modified, created and deleted files with their line counts. The block was wrong for renamed files, for non-ASCII names and for some untracked files. I fixed it by reading git's output NUL-separated ([PR #10133](https://github.com/code-yeongyu/oh-my-openagent/pull/10133), merged 2026-10-15 as [6c161a1](https://github.com/code-yeongyu/oh-my-openagent/commit/6c161a1383b0c6fa928fe71ca1ea08962d4cff5a)).

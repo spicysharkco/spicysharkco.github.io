@@ -2,6 +2,10 @@
 layout: post
 title: "A verify target that rewrote the tree: four review points on a cri-tools script change"
 date: 2026-10-16
+project: cri-tools
+pr: https://github.com/kubernetes-sigs/cri-tools/pull/2212
+status: merged
+tags: [kubernetes, build-scripts, code-review]
 ---
 
 `make verify-docs` and `make verify-go-modules` in cri-tools rewrote files in your working tree, then failed if `git status` showed anything dirty. I changed them so they only check ([PR #2212](https://github.com/kubernetes-sigs/cri-tools/pull/2212), merged 2026-10-16). The PR fixes [issue #2197](https://github.com/kubernetes-sigs/cri-tools/issues/2197), which @SergeyKanzhelev filed, and it follows the plan @saschagrunert wrote in a comment there. @saschagrunert then reviewed the PR and raised four points. All four changed the merged scripts.

@@ -2,6 +2,10 @@
 layout: post
 title: "Two route lists, one missing path: image generations in AIBrix"
 date: 2026-10-17
+project: AIBrix
+pr: https://github.com/vllm-project/aibrix/pull/3132
+status: merged
+tags: [model-serving, routing, gateway]
 ---
 
 AIBrix's gateway accepted `POST /v1/images/generations`, but with no routing strategy set, the route it handed the request to had no match for that path, for every engine except `xdit`. I fixed it by adding one line to a list ([PR #3132](https://github.com/vllm-project/aibrix/pull/3132), merged 2026-10-17, about 55 minutes after I opened it). There was no existing issue for it.

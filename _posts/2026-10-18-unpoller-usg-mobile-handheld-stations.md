@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made unpoller export a USG's mobile and handheld station counts"
+title: "User and guest counts passed twice: USG mobile and handheld in unpoller"
 date: 2026-10-18
+project: unpoller
+pr: https://github.com/unpoller/unpoller/pull/1114
+status: merged
+tags: [observability-data, prometheus, unifi]
 ---
 
 A USG exported its user count as `mobile` and its guest count as `handheld` in `unpoller_device_stations`. I fixed it in [PR #1114](https://github.com/unpoller/unpoller/pull/1114), merged within two hours of opening it. It follows [my station-count fix](https://spicyshark.co/2026/10/17/unpoller-station-count-labels.html) and [my temperature and storage fix](https://spicyshark.co/2026/10/17/unpoller-temperature-storage-labels.html) in the same exporter.

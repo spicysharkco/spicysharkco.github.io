@@ -2,6 +2,10 @@
 layout: post
 title: "TrimPrefix is not TrimLeft: a false warning on every scrape error in sql_exporter"
 date: 2026-10-16
+project: sql_exporter
+pr: https://github.com/burningalchemist/sql_exporter/pull/1115
+status: merged
+tags: [observability-data, go, logging]
 ---
 
 In single target mode, sql_exporter warned about its own log context on every scrape error. I fixed it with a one-word change ([PR #1115](https://github.com/burningalchemist/sql_exporter/pull/1115), merged 2026-10-16 as [72c7582](https://github.com/burningalchemist/sql_exporter/commit/72c7582aa2f5bd113999df06da1067d807667f89)).

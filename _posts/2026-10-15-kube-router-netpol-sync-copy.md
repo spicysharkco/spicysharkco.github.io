@@ -2,6 +2,10 @@
 layout: post
 title: "One String() call per pod: 320x faster in one kube-router function"
 date: 2026-10-15
+project: kube-router
+pr: https://github.com/cloudnativelabs/kube-router/pull/2192
+status: merged
+tags: [kubernetes, performance, networking]
 ---
 
 I got a small change merged into kube-router ([PR #2192](https://github.com/cloudnativelabs/kube-router/pull/2192)). The code change deletes five lines; I also added a test and a benchmark. On the benchmark I wrote, one function went from 152,895,797 ns/op to 477,097 ns/op, about 320x. Bytes allocated per op fell from 90,489,076 to 205,066, which is 99.77% less.

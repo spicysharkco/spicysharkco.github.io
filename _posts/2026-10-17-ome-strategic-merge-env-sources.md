@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made OME's runtime merge drop the env source an override replaces"
+title: "Strategic merge kept both halves of an env entry: a merge fix in OME"
 date: 2026-10-17
+project: OME
+pr: https://github.com/ome-projects/ome/pull/1234
+status: merged
+tags: [model-serving, environment-variables, strategic-merge]
 ---
 
 An InferenceService could override a runtime's environment variable and still inherit half of the old one. The merged entry carried a literal `value` beside a `valueFrom` source, or two sources at once. Kubernetes rejects such an entry, and in the default mode the Deployment create or update failed. I fixed the merge in [PR #1234](https://github.com/ome-projects/ome/pull/1234), merged 2026-10-17, about 10 minutes after I opened it.

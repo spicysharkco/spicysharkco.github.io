@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made sql_exporter report a scrape mode change on reload"
+title: "An empty case in a Go switch: scrape mode changes on reload in sql_exporter"
 date: 2026-10-17
+project: sql_exporter
+pr: https://github.com/burningalchemist/sql_exporter/pull/1119
+status: merged
+tags: [observability-data, reload, go]
 ---
 
 A reload that switched sql_exporter from one `target` to `jobs` returned success and kept the old target. I fixed it in [PR #1119](https://github.com/burningalchemist/sql_exporter/pull/1119), merged 2026-10-17, 24 minutes after I opened it. A `case` with no body ended a Go `switch`, and `Reload` returned nil.

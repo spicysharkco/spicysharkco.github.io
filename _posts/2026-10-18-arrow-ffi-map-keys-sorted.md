@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made the arrow-schema FFI export keep a map's keys-sorted flag"
+title: "An assignment that erased a flag: map keys-sorted in arrow-schema FFI export"
 date: 2026-10-18
+project: arrow-rs
+pr: https://github.com/apache/arrow-rs/pull/11630
+status: merged
+tags: [observability-data, rust, ffi]
 ---
 
 Exporting a `Field` of `DataType::Map(_, true)` through `arrow-schema`'s C Data Interface dropped the keys-sorted flag, so it came back as `Map(_, false)`. I fixed it in [PR #11630](https://github.com/apache/arrow-rs/pull/11630). It closes [issue #11603](https://github.com/apache/arrow-rs/issues/11603) and was merged on 2026-10-18, 28 hours and 57 minutes after I opened it. It follows [my CSV fix](https://spicyshark.co/2026/10/17/arrow-csv-dictionary-key-overflow.html).

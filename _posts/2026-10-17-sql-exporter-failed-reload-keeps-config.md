@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made sql_exporter keep its config when a reload fails"
+title: "Config stored before the build: a failed reload in sql_exporter"
 date: 2026-10-17
+project: sql_exporter
+pr: https://github.com/burningalchemist/sql_exporter/pull/1120
+status: merged
+tags: [observability-data, reload, config]
 ---
 
 After a failed reload, sql_exporter showed a config it was not running. I fixed it in [PR #1120](https://github.com/burningalchemist/sql_exporter/pull/1120), merged within ten minutes of opening it. `Reload` stored the new config before it built the new targets.

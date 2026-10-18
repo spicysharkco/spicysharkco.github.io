@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made xinference keep the chunks of an empty reasoning reply"
+title: "Four early exits dropped the chunk: empty reasoning streams in Xinference"
 date: 2026-10-17
+project: Xinference
+pr: https://github.com/xorbitsai/inference/pull/5726
+status: merged
+tags: [model-serving, reasoning, streaming]
 ---
 
 A streamed chat reply with no text at all, from a reasoning model that needs the `<think>` tag added, reached the client as `data: [DONE]` and nothing else. No `finish_reason`, no usage chunk. I fixed it in [PR #5726](https://github.com/xorbitsai/inference/pull/5726), approved within half an hour and merged about two hours after I opened it.

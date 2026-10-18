@@ -2,6 +2,7 @@
 layout: post
 title: "Your SSRF allowlist forgets the redirect"
 date: 2026-10-17
+tags: [field-notes, security, ssrf]
 ---
 You added a destination check to the URL fetcher, so it only talks to hosts you trust.
 Good. Then one of those trusted hosts answers `302` to an address you would never allow,

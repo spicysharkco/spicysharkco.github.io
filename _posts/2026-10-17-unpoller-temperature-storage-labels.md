@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made unpoller export temperature and storage under the right labels"
+title: "Label names declared in the wrong order: temperature and storage in unpoller"
 date: 2026-10-17
+project: unpoller
+pr: https://github.com/unpoller/unpoller/pull/1113
+status: merged
+tags: [observability-data, prometheus, labels]
 ---
 
 `unpoller_device_temperature_celsius` and `unpoller_device_storage` put the tag and the sensor or disk values under the wrong label names, and lost series too. I fixed it in [PR #1113](https://github.com/unpoller/unpoller/pull/1113), merged within half an hour of opening it. It is the mistake [my station-count fix](https://spicysharkco.github.io/2026/10/17/unpoller-station-count-labels.html) removed, in two more descriptors.

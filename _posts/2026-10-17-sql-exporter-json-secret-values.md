@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made sql_exporter read JSON secrets that hold a number"
+title: "One number broke a string map: JSON secrets in sql_exporter"
 date: 2026-10-17
+project: sql_exporter
+pr: https://github.com/burningalchemist/sql_exporter/pull/1118
+status: merged
+tags: [observability-data, secrets, json]
 ---
 
 A database secret from AWS made sql_exporter use the whole JSON text as its connection string. I fixed the lookup in [PR #1118](https://github.com/burningalchemist/sql_exporter/pull/1118), merged 2026-10-17, under 27 minutes after I opened it. A map of strings decoded the secret. One number broke that decode, and a fallback hid the error.

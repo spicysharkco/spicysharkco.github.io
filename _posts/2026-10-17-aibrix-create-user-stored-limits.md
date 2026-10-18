@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I made AIBrix's CreateUser return the limits it stored"
+title: "CreateUser echoed the request, not the record: a stored-limits fix in AIBrix"
 date: 2026-10-17
+project: AIBrix
+pr: https://github.com/vllm-project/aibrix/pull/3137
+status: merged
+tags: [model-serving, api, testing]
 ---
 
 Calling `POST /CreateUser` again for an existing user returned the limits from the request, not the ones in the store. I fixed it in [PR #3137](https://github.com/vllm-project/aibrix/pull/3137), merged the same day, a little under twelve hours after I opened it. The handler returned the wrong object.

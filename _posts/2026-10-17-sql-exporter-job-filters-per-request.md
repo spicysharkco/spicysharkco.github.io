@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "I moved sql_exporter's job filters into each request"
+title: "Request input stored on a shared exporter: job filters in sql_exporter"
 date: 2026-10-17
+project: sql_exporter
+pr: https://github.com/burningalchemist/sql_exporter/pull/1116
+status: merged
+tags: [observability-data, concurrency, prometheus]
 ---
 
 Two scrapes of sql_exporter could ask for different jobs and receive each other's metrics. I fixed the handler's shared filter state in [PR #1116](https://github.com/burningalchemist/sql_exporter/pull/1116), merged 2026-10-17, about 4 hours and 7 minutes after I opened it. The filter was request input, but the handler stored it on the exporter that all requests shared.

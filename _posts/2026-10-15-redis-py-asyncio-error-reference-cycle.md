@@ -2,6 +2,10 @@
 layout: post
 title: "One local variable, one reference cycle per error reply in redis-py"
 date: 2026-10-15
+project: redis-py
+pr: https://github.com/redis/redis-py/pull/4434
+status: merged
+tags: [observability-data, python, memory]
 ---
 
 On 2026-10-15 redis-py merged a small fix I sent: [#4434](https://github.com/redis/redis-py/pull/4434), "Break the ResponseError reference cycle in asyncio read_response". The fix adds four lines and removes one in `redis/asyncio/connection.py`. The rest is the test. The review from [@petyaslavova](https://github.com/petyaslavova) was short: it matches the sync `Connection.read_response` fix from [#2932](https://github.com/redis/redis-py/pull/2932), and the test covers it.
