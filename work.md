@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-47 merged pull requests in 21 repositories under 18 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-17.
+48 merged pull requests in 21 repositories under 18 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-18.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-18 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(promunifi): export USG mobile and handheld station counts | [#1114](https://github.com/unpoller/unpoller/pull/1114) | 0 |
 | 2026-10-17 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(promunifi): export temperature and storage with the right labels | [#1113](https://github.com/unpoller/unpoller/pull/1113) | 0 |
 | 2026-10-17 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Return stored limits when creating an existing metadata user | [#3137](https://github.com/vllm-project/aibrix/pull/3137) | 0 |
 | 2026-10-17 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Use the Pod address family for ModelAdapter EndpointSlices | [#3136](https://github.com/vllm-project/aibrix/pull/3136) | 0 |
