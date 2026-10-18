@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-49 merged pull requests in 21 repositories under 18 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-18.
+50 merged pull requests in 21 repositories under 18 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-18.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-18 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | fix(llm): drop the start tag from non-stream reasoning content without an end tag | [#5731](https://github.com/xorbitsai/inference/pull/5731) | 0 |
 | 2026-10-18 | [apache/arrow-rs](https://github.com/apache/arrow-rs) | fix(arrow-schema): keep map keys-sorted flag in FFI field export | [#11630](https://github.com/apache/arrow-rs/pull/11630) | 1 |
 | 2026-10-18 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(promunifi): export USG mobile and handheld station counts | [#1114](https://github.com/unpoller/unpoller/pull/1114) | 0 |
 | 2026-10-17 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(promunifi): export temperature and storage with the right labels | [#1113](https://github.com/unpoller/unpoller/pull/1113) | 0 |
