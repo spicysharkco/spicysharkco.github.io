@@ -3,13 +3,14 @@ layout: page
 title: Work
 permalink: /work/
 ---
-59 merged pull requests in 28 repositories under 24 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-18.
+60 merged pull requests in 29 repositories under 25 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-18.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
 | 2026-10-18 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: use value equality for the in filter operator | [#243](https://github.com/ohler55/ojg/pull/243) | 0 |
 | 2026-10-18 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Serve the standardized aibrix counters from the runtime metrics endpoint | [#3147](https://github.com/vllm-project/aibrix/pull/3147) | 0 |
 | 2026-10-18 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(apiserver): reset args on extraArgs removal | [#1360](https://github.com/clastix/kamaji/pull/1360) | 0 |
+| 2026-10-18 | [itchyny/gojq](https://github.com/itchyny/gojq) | fix slice start index to round down for jq compatibility | [#322](https://github.com/itchyny/gojq/pull/322) | 0 |
 | 2026-10-18 | [davidhalter/jedi](https://github.com/davidhalter/jedi) | Fix extract\_function when the extracted code defines no variable | [#2122](https://github.com/davidhalter/jedi/pull/2122) | 0 |
 | 2026-10-18 | [tox-dev/tox](https://github.com/tox-dev/tox) | fix(config): resolve factor labels per env\_base | [#4174](https://github.com/tox-dev/tox/pull/4174) | 0 |
 | 2026-10-18 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | fix(llm): cut non-stream content at the end tag when text comes before the start tag | [#5733](https://github.com/xorbitsai/inference/pull/5733) | 0 |
