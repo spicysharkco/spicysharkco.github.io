@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-60 merged pull requests in 29 repositories under 25 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-18.
+61 merged pull requests in 30 repositories under 26 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-18.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-18 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix inverse extended glob followed by a nested extended glob | [#245](https://github.com/facelessuser/wcmatch/pull/245) | 0 |
 | 2026-10-18 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: use value equality for the in filter operator | [#243](https://github.com/ohler55/ojg/pull/243) | 0 |
 | 2026-10-18 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Serve the standardized aibrix counters from the runtime metrics endpoint | [#3147](https://github.com/vllm-project/aibrix/pull/3147) | 0 |
 | 2026-10-18 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(apiserver): reset args on extraArgs removal | [#1360](https://github.com/clastix/kamaji/pull/1360) | 0 |
