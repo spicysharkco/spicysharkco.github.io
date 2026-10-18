@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-56 merged pull requests in 26 repositories under 22 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-18.
+57 merged pull requests in 26 repositories under 22 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-18.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-18 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Serve the standardized aibrix counters from the runtime metrics endpoint | [#3147](https://github.com/vllm-project/aibrix/pull/3147) | 0 |
 | 2026-10-18 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(apiserver): reset args on extraArgs removal | [#1360](https://github.com/clastix/kamaji/pull/1360) | 0 |
 | 2026-10-18 | [tox-dev/tox](https://github.com/tox-dev/tox) | fix(config): resolve factor labels per env\_base | [#4174](https://github.com/tox-dev/tox/pull/4174) | 0 |
 | 2026-10-18 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | fix(llm): cut non-stream content at the end tag when text comes before the start tag | [#5733](https://github.com/xorbitsai/inference/pull/5733) | 0 |
