@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-52 merged pull requests in 23 repositories under 20 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-18.
+53 merged pull requests in 24 repositories under 21 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-18.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-18 | [tox-dev/tox](https://github.com/tox-dev/tox) | fix(config): resolve factor labels per env\_base | [#4174](https://github.com/tox-dev/tox/pull/4174) | 0 |
 | 2026-10-18 | [mozman/ezdxf](https://github.com/mozman/ezdxf) | Fix JSON export of string values with a backslash or double quote | [#1433](https://github.com/mozman/ezdxf/pull/1433) | 0 |
 | 2026-10-18 | [Kozea/Radicale](https://github.com/Kozea/Radicale) | Fix: addressbook-query prop-filter defaults to test="anyof" | [#2285](https://github.com/Kozea/Radicale/pull/2285) | 0 |
 | 2026-10-18 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | fix(llm): drop the start tag from non-stream reasoning content without an end tag | [#5731](https://github.com/xorbitsai/inference/pull/5731) | 0 |
