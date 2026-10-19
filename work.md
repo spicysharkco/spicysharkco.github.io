@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-73 merged pull requests in 33 repositories under 28 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
+74 merged pull requests in 33 repositories under 28 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: count characters, not bytes, in length() of a string | [#250](https://github.com/ohler55/ojg/pull/250) | 0 |
 | 2026-10-19 | [dop251/goja](https://github.com/dop251/goja) | Throw RangeError in Array.from for array-likes longer than 2\*\*32-1 | [#803](https://github.com/dop251/goja/pull/803) | 1 |
 | 2026-10-19 | [pymc-devs/pymc](https://github.com/pymc-devs/pymc) | Improve VonMises logp overflow for large kappa | [#8503](https://github.com/pymc-devs/pymc/pull/8503) | 0 |
 | 2026-10-19 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Default an unset RayClusterFleet strategy to a 25% RollingUpdate | [#3169](https://github.com/vllm-project/aibrix/pull/3169) | 0 |
