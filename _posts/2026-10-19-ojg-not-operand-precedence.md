@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A not that read to the end of the filter: the `!` operator in OjG"
+title: "A not that read to the end of the filter: the ! operator in OjG"
 date: 2026-10-19
 project: OjG
 pr: https://github.com/ohler55/ojg/pull/248
