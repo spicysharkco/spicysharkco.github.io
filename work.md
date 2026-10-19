@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-68 merged pull requests in 31 repositories under 26 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
+69 merged pull requests in 31 repositories under 26 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-19 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | fix(llm): hold leading whitespace before inserting the stream reasoning start tag | [#5746](https://github.com/xorbitsai/inference/pull/5746) | 0 |
 | 2026-10-19 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix duplicate glob results when ignoring case | [#247](https://github.com/facelessuser/wcmatch/pull/247) | 0 |
 | 2026-10-19 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Delete terminated pods so a PodSet can replace them | [#3146](https://github.com/vllm-project/aibrix/pull/3146) | 1 |
 | 2026-10-19 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix `:in-range` and `:out-of-range` for `week` inputs with a week-year of 10000 or more | [#322](https://github.com/facelessuser/soupsieve/pull/322) | 0 |
