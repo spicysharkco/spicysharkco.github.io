@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-80 merged pull requests in 33 repositories under 28 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
+82 merged pull requests in 33 repositories under 28 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-19 | [dop251/goja](https://github.com/dop251/goja) | Call exec from RegExp.prototype.test | [#806](https://github.com/dop251/goja/pull/806) | 0 |
+| 2026-10-19 | [dop251/goja](https://github.com/dop251/goja) | Accept primitive sources in TypedArray.from | [#805](https://github.com/dop251/goja/pull/805) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | oj, gen, sen: decode an escaped UTF-16 surrogate pair in strings | [#254](https://github.com/ohler55/ojg/pull/254) | 0 |
 | 2026-10-19 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(controller): return the DataStore lookup error from Reconcile | [#1365](https://github.com/clastix/kamaji/pull/1365) | 0 |
 | 2026-10-19 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(certs): avoid nil panic in SAN check log | [#1363](https://github.com/clastix/kamaji/pull/1363) | 0 |
