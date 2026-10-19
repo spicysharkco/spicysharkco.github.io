@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-65 merged pull requests in 31 repositories under 26 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
+66 merged pull requests in 31 repositories under 26 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-19 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix `:in-range` and `:out-of-range` for `week` inputs with a week-year of 10000 or more | [#322](https://github.com/facelessuser/soupsieve/pull/322) | 0 |
 | 2026-10-19 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix extended star group directly after a star | [#246](https://github.com/facelessuser/wcmatch/pull/246) | 0 |
 | 2026-10-19 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix `:nth-last-child(an+b of S)` when the first element checked does not match `S` | [#320](https://github.com/facelessuser/soupsieve/pull/320) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: bind ! more tightly than && and \|\| in filters | [#248](https://github.com/ohler55/ojg/pull/248) | 0 |
