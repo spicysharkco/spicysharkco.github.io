@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-71 merged pull requests in 31 repositories under 26 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
+72 merged pull requests in 32 repositories under 27 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-19 | [pymc-devs/pymc](https://github.com/pymc-devs/pymc) | Improve VonMises logp overflow for large kappa | [#8503](https://github.com/pymc-devs/pymc/pull/8503) | 0 |
 | 2026-10-19 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Default an unset RayClusterFleet strategy to a 25% RollingUpdate | [#3169](https://github.com/vllm-project/aibrix/pull/3169) | 0 |
 | 2026-10-19 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | fix(llm): keep a start tag after the end tag as content in non-stream reasoning | [#5751](https://github.com/xorbitsai/inference/pull/5751) | 0 |
 | 2026-10-19 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | fix(llm): hold leading whitespace before inserting the stream reasoning start tag | [#5746](https://github.com/xorbitsai/inference/pull/5746) | 0 |
