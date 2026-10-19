@@ -3,11 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-67 merged pull requests in 31 repositories under 26 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
+68 merged pull requests in 31 repositories under 26 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
 | 2026-10-19 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix duplicate glob results when ignoring case | [#247](https://github.com/facelessuser/wcmatch/pull/247) | 0 |
+| 2026-10-19 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Delete terminated pods so a PodSet can replace them | [#3146](https://github.com/vllm-project/aibrix/pull/3146) | 1 |
 | 2026-10-19 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix `:in-range` and `:out-of-range` for `week` inputs with a week-year of 10000 or more | [#322](https://github.com/facelessuser/soupsieve/pull/322) | 0 |
 | 2026-10-19 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix extended star group directly after a star | [#246](https://github.com/facelessuser/wcmatch/pull/246) | 0 |
 | 2026-10-19 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix `:nth-last-child(an+b of S)` when the first element checked does not match `S` | [#320](https://github.com/facelessuser/soupsieve/pull/320) | 0 |
