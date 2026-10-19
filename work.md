@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-97 merged pull requests in 37 repositories under 32 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
+98 merged pull requests in 37 repositories under 32 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: exclude a carriage return from a dot in match() and search() | [#259](https://github.com/ohler55/ojg/pull/259) | 0 |
 | 2026-10-19 | [go-co-op/gocron](https://github.com/go-co-op/gocron) | fix(job): return the run start time from LastRunStartedAt | [#967](https://github.com/go-co-op/gocron/pull/967) | 1 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: accept blank space between path segments and inside a slice | [#258](https://github.com/ohler55/ojg/pull/258) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: accept an empty pattern in match() and search() | [#257](https://github.com/ohler55/ojg/pull/257) | 0 |
