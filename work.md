@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-93 merged pull requests in 35 repositories under 30 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
+95 merged pull requests in 35 repositories under 30 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: accept blank space between path segments and inside a slice | [#258](https://github.com/ohler55/ojg/pull/258) | 0 |
+| 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: accept an empty pattern in match() and search() | [#257](https://github.com/ohler55/ojg/pull/257) | 0 |
 | 2026-10-19 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(service): clear loadBalancerSourceRanges when removed | [#1367](https://github.com/clastix/kamaji/pull/1367) | 0 |
 | 2026-10-19 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(webhook): validate the new DNS service IPs on update | [#1369](https://github.com/clastix/kamaji/pull/1369) | 0 |
 | 2026-10-19 | [dop251/goja](https://github.com/dop251/goja) | Call exec from the generic RegExp match, search and global replace | [#808](https://github.com/dop251/goja/pull/808) | 0 |
