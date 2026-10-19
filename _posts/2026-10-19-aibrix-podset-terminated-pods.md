@@ -39,7 +39,7 @@ Three of the 22 added lines, no context: the filter, the delete, the return.
 
 `TestReconcilePodsReplacesTerminatedPod` runs for Failed and Succeeded, with terminated pods at indexes 1 and 2. After the first pass both are gone and two events exist; after the second both are back. A second test holds a Failed pod at index 1 with a finalizer and checks that index 2 is still created. Without the fix the Failed and Succeeded runs fail and the second test passes; with it the package's 11 tests pass. Removing the deletion-timestamp check fails only the second test.
 
-## What the maintainers did
+## What happened in review
 
 @varungup90 left two review comments that recommended approval but were not a formal one. Each reported a mutant that survived the tests. My second commit added the event they suggested and the check that the pod is gone after pass one; the third named the event reason as a constant and added a second terminated pod. @googs1025 approved and merged.
 
