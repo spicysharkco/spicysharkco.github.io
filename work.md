@@ -3,10 +3,13 @@ layout: page
 title: Work
 permalink: /work/
 ---
-62 merged pull requests in 30 repositories under 26 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-18.
+65 merged pull requests in 31 repositories under 26 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-19 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix extended star group directly after a star | [#246](https://github.com/facelessuser/wcmatch/pull/246) | 0 |
+| 2026-10-19 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix \`:nth-last-child(an+b of S)\` when the first element checked does not match \`S\` | [#320](https://github.com/facelessuser/soupsieve/pull/320) | 0 |
+| 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: bind ! more tightly than && and \|\| in filters | [#248](https://github.com/ohler55/ojg/pull/248) | 0 |
 | 2026-10-18 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: treat a parenthesized @.x as an existence check in filters | [#246](https://github.com/ohler55/ojg/pull/246) | 0 |
 | 2026-10-18 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix inverse extended glob followed by a nested extended glob | [#245](https://github.com/facelessuser/wcmatch/pull/245) | 0 |
 | 2026-10-18 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: use value equality for the in filter operator | [#243](https://github.com/ohler55/ojg/pull/243) | 0 |
