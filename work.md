@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-89 merged pull requests in 35 repositories under 30 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
+91 merged pull requests in 35 repositories under 30 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-19 | [dop251/goja](https://github.com/dop251/goja) | Call exec from the generic RegExp match, search and global replace | [#808](https://github.com/dop251/goja/pull/808) | 0 |
+| 2026-10-19 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | recorder: fix timestamps of MPEG-1/2 Audio tracks in fMP4 recordings | [#6361](https://github.com/bluenviron/mediamtx/pull/6361) | 2 |
 | 2026-10-19 | [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) | fix(distributions): preserve Levy support through pytree round trips | [#2363](https://github.com/pyro-ppl/numpyro/pull/2363) | 1 |
 | 2026-10-19 | [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) | refactor(distributions): derive the interval supports from low and high | [#2376](https://github.com/pyro-ppl/numpyro/pull/2376) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: match the whole string when a match() pattern has alternation | [#255](https://github.com/ohler55/ojg/pull/255) | 0 |
