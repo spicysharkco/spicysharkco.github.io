@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-75 merged pull requests in 33 repositories under 28 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
+76 merged pull requests in 33 repositories under 28 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-19.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: accept a negative number right after an operator in filters | [#252](https://github.com/ohler55/ojg/pull/252) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: let equal operands satisfy <= and >= in filters | [#251](https://github.com/ohler55/ojg/pull/251) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: count characters, not bytes, in length() of a string | [#250](https://github.com/ohler55/ojg/pull/250) | 0 |
 | 2026-10-19 | [dop251/goja](https://github.com/dop251/goja) | Throw RangeError in Array.from for array-likes longer than 2\*\*32-1 | [#803](https://github.com/dop251/goja/pull/803) | 1 |
