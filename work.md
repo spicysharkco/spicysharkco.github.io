@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-99 merged pull requests in 38 repositories under 33 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+100 merged pull requests in 39 repositories under 33 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) | Fix PathConverter and B64 skipping a tag when another attribute is unquoted | [#2998](https://github.com/facelessuser/pymdown-extensions/pull/2998) | 0 |
 | 2026-10-20 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix: match FilterArtifactType against an image manifest's artifactType | [#1640](https://github.com/oras-project/oras-go/pull/1640) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: exclude a carriage return from a dot in match() and search() | [#259](https://github.com/ohler55/ojg/pull/259) | 0 |
 | 2026-10-19 | [go-co-op/gocron](https://github.com/go-co-op/gocron) | fix(job): return the run start time from LastRunStartedAt | [#967](https://github.com/go-co-op/gocron/pull/967) | 1 |
