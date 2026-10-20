@@ -3,10 +3,13 @@ layout: page
 title: Work
 permalink: /work/
 ---
-143 merged pull requests in 55 repositories under 47 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+146 merged pull requests in 56 repositories under 48 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [derailed/k9s](https://github.com/derailed/k9s) | fix(config): release the aliases lock when an aliases file fails to parse | [#4318](https://github.com/derailed/k9s/pull/4318) | 0 |
+| 2026-10-20 | [clastix/kamaji](https://github.com/clastix/kamaji) | docs(guides): fix write permissions field names | [#1379](https://github.com/clastix/kamaji/pull/1379) | 0 |
+| 2026-10-20 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | hls: fix MPEG-TS variant failing on streams with several audio tracks | [#6394](https://github.com/bluenviron/mediamtx/pull/6394) | 0 |
 | 2026-10-20 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(datastore): remove the freeze webhook when the control plane is WriteLimited | [#1377](https://github.com/clastix/kamaji/pull/1377) | 0 |
 | 2026-10-20 | [fsspec/s3fs](https://github.com/fsspec/s3fs) | Apply find prefix when the directory listing is cached | [#1061](https://github.com/fsspec/s3fs/pull/1061) | 3 |
 | 2026-10-20 | [dapr/dapr](https://github.com/dapr/dapr) | actors: report the TTL of reminders in the reminder list | [#10850](https://github.com/dapr/dapr/pull/10850) | 0 |
