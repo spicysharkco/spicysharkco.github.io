@@ -3,10 +3,17 @@ layout: page
 title: Work
 permalink: /work/
 ---
-122 merged pull requests in 50 repositories under 44 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+129 merged pull requests in 52 repositories under 44 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) | fix(distributions): build the censored feasible values at the batch shape | [#2379](https://github.com/pyro-ppl/numpyro/pull/2379) | 0 |
+| 2026-10-20 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix rglob with a pattern that starts with \`\*\*\` | [#249](https://github.com/facelessuser/wcmatch/pull/249) | 0 |
+| 2026-10-20 | [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) | fix(distributions): handle array-bound supports in MaskedDistribution.log\_prob | [#2380](https://github.com/pyro-ppl/numpyro/pull/2380) | 0 |
+| 2026-10-20 | [itchyny/gojq](https://github.com/itchyny/gojq) | fix slice end index between -1 and 0 for jq compatibility | [#324](https://github.com/itchyny/gojq/pull/324) | 1 |
+| 2026-10-20 | [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) | Fix Arithmatex generic wraps containing braces | [#3002](https://github.com/facelessuser/pymdown-extensions/pull/3002) | 0 |
+| 2026-10-20 | [facelessuser/coloraide](https://github.com/facelessuser/coloraide) | Fix \`none\` hue output when the angle unit is not degrees | [#531](https://github.com/facelessuser/coloraide/pull/531) | 0 |
+| 2026-10-20 | [facelessuser/bracex](https://github.com/facelessuser/bracex) | Fix commas dropped from unclosed brace groups | [#51](https://github.com/facelessuser/bracex/pull/51) | 0 |
 | 2026-10-20 | [ohler55/ojg](https://github.com/ohler55/ojg) | gen: read -9223372036854775808 as an int64 | [#261](https://github.com/ohler55/ojg/pull/261) | 0 |
 | 2026-10-20 | [ohler55/ojg](https://github.com/ohler55/ojg) | sen: quote a string that starts with a sign or has a backtick | [#260](https://github.com/ohler55/ojg/pull/260) | 0 |
 | 2026-10-20 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix: skip a blob when PreCopy returns SkipNode after a declined mount | [#1644](https://github.com/oras-project/oras-go/pull/1644) | 0 |
