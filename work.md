@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-114 merged pull requests in 49 repositories under 43 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+115 merged pull requests in 49 repositories under 43 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(konnectivity): remove the server kubeconfig volume when the addon is disabled | [#1375](https://github.com/clastix/kamaji/pull/1375) | 0 |
 | 2026-10-20 | [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) | chore: remove the unused \`NumLike\` import | [#2378](https://github.com/pyro-ppl/numpyro/pull/2378) | 0 |
 | 2026-10-20 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(service): clear externalIPs when allowAddressAsExternalIP is turned off | [#1371](https://github.com/clastix/kamaji/pull/1371) | 0 |
 | 2026-10-20 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Retry and report a failed RayCluster create in RayClusterReplicaSet | [#3163](https://github.com/vllm-project/aibrix/pull/3163) | 1 |
