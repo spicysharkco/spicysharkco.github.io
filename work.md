@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-100 merged pull requests in 39 repositories under 33 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+102 merged pull requests in 39 repositories under 33 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(service): clear externalIPs when allowAddressAsExternalIP is turned off | [#1371](https://github.com/clastix/kamaji/pull/1371) | 0 |
+| 2026-10-20 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Retry and report a failed RayCluster create in RayClusterReplicaSet | [#3163](https://github.com/vllm-project/aibrix/pull/3163) | 1 |
 | 2026-10-20 | [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) | Fix PathConverter and B64 skipping a tag when another attribute is unquoted | [#2998](https://github.com/facelessuser/pymdown-extensions/pull/2998) | 0 |
 | 2026-10-20 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix: match FilterArtifactType against an image manifest's artifactType | [#1640](https://github.com/oras-project/oras-go/pull/1640) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: exclude a carriage return from a dot in match() and search() | [#259](https://github.com/ohler55/ojg/pull/259) | 0 |
