@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-120 merged pull requests in 50 repositories under 44 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+122 merged pull requests in 50 repositories under 44 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [ohler55/ojg](https://github.com/ohler55/ojg) | gen: read -9223372036854775808 as an int64 | [#261](https://github.com/ohler55/ojg/pull/261) | 0 |
+| 2026-10-20 | [ohler55/ojg](https://github.com/ohler55/ojg) | sen: quote a string that starts with a sign or has a backtick | [#260](https://github.com/ohler55/ojg/pull/260) | 0 |
 | 2026-10-20 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix: skip a blob when PreCopy returns SkipNode after a declined mount | [#1644](https://github.com/oras-project/oras-go/pull/1644) | 0 |
 | 2026-10-20 | [kubescape/kubescape](https://github.com/kubescape/kubescape) | fix: keep scores below 100 from printing as 100 | [#4244](https://github.com/kubescape/kubescape/pull/4244) | 0 |
 | 2026-10-20 | [kubescape/kubescape](https://github.com/kubescape/kubescape) | fix(httphandler): remove markdown and exceptions results on cleanup | [#4254](https://github.com/kubescape/kubescape/pull/4254) | 0 |
