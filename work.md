@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-118 merged pull requests in 50 repositories under 44 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+120 merged pull requests in 50 repositories under 44 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix: skip a blob when PreCopy returns SkipNode after a declined mount | [#1644](https://github.com/oras-project/oras-go/pull/1644) | 0 |
+| 2026-10-20 | [kubescape/kubescape](https://github.com/kubescape/kubescape) | fix: keep scores below 100 from printing as 100 | [#4244](https://github.com/kubescape/kubescape/pull/4244) | 0 |
 | 2026-10-20 | [kubescape/kubescape](https://github.com/kubescape/kubescape) | fix(httphandler): remove markdown and exceptions results on cleanup | [#4254](https://github.com/kubescape/kubescape/pull/4254) | 0 |
 | 2026-10-20 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix: match FilterArtifactType against an image index's artifactType | [#1642](https://github.com/oras-project/oras-go/pull/1642) | 0 |
 | 2026-10-20 | [dop251/goja](https://github.com/dop251/goja) | Convert a BigInt to the nearest Number in Number() | [#809](https://github.com/dop251/goja/pull/809) | 0 |
