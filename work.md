@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-156 merged pull requests in 56 repositories under 48 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+157 merged pull requests in 57 repositories under 48 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | fix(approximateprefix): size the autotuned LRU in router blocks | [#3476](https://github.com/llm-d/llm-d-router/pull/3476) | 4 |
 | 2026-10-20 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix(DKIM\_BUILDER): encode non-ASCII notes as UTF-8 octets | [#5024](https://github.com/DNSControl/dnscontrol/pull/5024) | 0 |
 | 2026-10-20 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[API\] Make PodAutoscaler scalingStrategy immutable | [#3174](https://github.com/vllm-project/aibrix/pull/3174) | 1 |
 | 2026-10-20 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix: report the fetched size when TagN exceeds MaxMetadataBytes | [#1651](https://github.com/oras-project/oras-go/pull/1651) | 0 |
