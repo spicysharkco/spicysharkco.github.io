@@ -3,10 +3,15 @@ layout: page
 title: Work
 permalink: /work/
 ---
-129 merged pull requests in 52 repositories under 44 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+134 merged pull requests in 52 repositories under 44 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [dop251/goja](https://github.com/dop251/goja) | Handle BigInt operands past 64 bits in == with a Boolean and in shifts | [#810](https://github.com/dop251/goja/pull/810) | 0 |
+| 2026-10-20 | [dop251/goja](https://github.com/dop251/goja) | Accept -0 in String.fromCodePoint | [#813](https://github.com/dop251/goja/pull/813) | 0 |
+| 2026-10-20 | [dop251/goja](https://github.com/dop251/goja) | Return a Number from Math.sign when the argument converts to NaN or zero | [#812](https://github.com/dop251/goja/pull/812) | 0 |
+| 2026-10-20 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | hls: fix MPEG-TS variant failing on streams with Opus tracks | [#6387](https://github.com/bluenviron/mediamtx/pull/6387) | 0 |
+| 2026-10-20 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: skip the first ping when enable\_ping is false | [#1126](https://github.com/burningalchemist/sql_exporter/pull/1126) | 0 |
 | 2026-10-20 | [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) | fix(distributions): build the censored feasible values at the batch shape | [#2379](https://github.com/pyro-ppl/numpyro/pull/2379) | 0 |
 | 2026-10-20 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix rglob with a pattern that starts with \`\*\*\` | [#249](https://github.com/facelessuser/wcmatch/pull/249) | 0 |
 | 2026-10-20 | [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) | fix(distributions): handle array-bound supports in MaskedDistribution.log\_prob | [#2380](https://github.com/pyro-ppl/numpyro/pull/2380) | 0 |
