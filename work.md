@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-134 merged pull requests in 52 repositories under 44 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+136 merged pull requests in 52 repositories under 44 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(content): report a failed read after the content as that error | [#1648](https://github.com/oras-project/oras-go/pull/1648) | 0 |
+| 2026-10-20 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix: make get-zones js output load for HTTPS, SVCB and DNSKEY records | [#5015](https://github.com/DNSControl/dnscontrol/pull/5015) | 1 |
 | 2026-10-20 | [dop251/goja](https://github.com/dop251/goja) | Handle BigInt operands past 64 bits in == with a Boolean and in shifts | [#810](https://github.com/dop251/goja/pull/810) | 0 |
 | 2026-10-20 | [dop251/goja](https://github.com/dop251/goja) | Accept -0 in String.fromCodePoint | [#813](https://github.com/dop251/goja/pull/813) | 0 |
 | 2026-10-20 | [dop251/goja](https://github.com/dop251/goja) | Return a Number from Math.sign when the argument converts to NaN or zero | [#812](https://github.com/dop251/goja/pull/812) | 0 |
