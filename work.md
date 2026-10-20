@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-154 merged pull requests in 56 repositories under 48 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+156 merged pull requests in 56 repositories under 48 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix(DKIM\_BUILDER): encode non-ASCII notes as UTF-8 octets | [#5024](https://github.com/DNSControl/dnscontrol/pull/5024) | 0 |
+| 2026-10-20 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[API\] Make PodAutoscaler scalingStrategy immutable | [#3174](https://github.com/vllm-project/aibrix/pull/3174) | 1 |
 | 2026-10-20 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix: report the fetched size when TagN exceeds MaxMetadataBytes | [#1651](https://github.com/oras-project/oras-go/pull/1651) | 0 |
 | 2026-10-20 | [clastix/kamaji](https://github.com/clastix/kamaji) | docs(reference): fix --datastore and --migrate-image rows | [#1381](https://github.com/clastix/kamaji/pull/1381) | 0 |
 | 2026-10-20 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: reject an array index that does not fit an int | [#265](https://github.com/ohler55/ojg/pull/265) | 0 |
