@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-116 merged pull requests in 49 repositories under 43 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+117 merged pull requests in 49 repositories under 43 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix: match FilterArtifactType against an image index's artifactType | [#1642](https://github.com/oras-project/oras-go/pull/1642) | 0 |
 | 2026-10-20 | [dop251/goja](https://github.com/dop251/goja) | Convert a BigInt to the nearest Number in Number() | [#809](https://github.com/dop251/goja/pull/809) | 0 |
 | 2026-10-20 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(konnectivity): remove the server kubeconfig volume when the addon is disabled | [#1375](https://github.com/clastix/kamaji/pull/1375) | 0 |
 | 2026-10-20 | [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) | chore: remove the unused \`NumLike\` import | [#2378](https://github.com/pyro-ppl/numpyro/pull/2378) | 0 |
