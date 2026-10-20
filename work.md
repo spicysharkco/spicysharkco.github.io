@@ -3,10 +3,17 @@ layout: page
 title: Work
 permalink: /work/
 ---
-136 merged pull requests in 52 repositories under 44 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+143 merged pull requests in 55 repositories under 47 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(datastore): remove the freeze webhook when the control plane is WriteLimited | [#1377](https://github.com/clastix/kamaji/pull/1377) | 0 |
+| 2026-10-20 | [fsspec/s3fs](https://github.com/fsspec/s3fs) | Apply find prefix when the directory listing is cached | [#1061](https://github.com/fsspec/s3fs/pull/1061) | 3 |
+| 2026-10-20 | [dapr/dapr](https://github.com/dapr/dapr) | actors: report the TTL of reminders in the reminder list | [#10850](https://github.com/dapr/dapr/pull/10850) | 0 |
+| 2026-10-20 | [minio/minio-go](https://github.com/minio/minio-go) | fix: fail a short streamed multipart upload before sending the short part | [#2319](https://github.com/minio/minio-go/pull/2319) | 6 |
+| 2026-10-20 | [redis/redis-py](https://github.com/redis/redis-py) | Break the startup node error reference cycle in NodesManager.initialize | [#4439](https://github.com/redis/redis-py/pull/4439) | 5 |
+| 2026-10-20 | [dop251/goja](https://github.com/dop251/goja) | Return -0 from parseInt when the sign is negative and the integer is 0 | [#814](https://github.com/dop251/goja/pull/814) | 0 |
+| 2026-10-20 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix \`:in-range\` and \`:out-of-range\` for \`time\` and \`datetime-local\` values with seconds | [#323](https://github.com/facelessuser/soupsieve/pull/323) | 0 |
 | 2026-10-20 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(content): report a failed read after the content as that error | [#1648](https://github.com/oras-project/oras-go/pull/1648) | 0 |
 | 2026-10-20 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix: make get-zones js output load for HTTPS, SVCB and DNSKEY records | [#5015](https://github.com/DNSControl/dnscontrol/pull/5015) | 1 |
 | 2026-10-20 | [dop251/goja](https://github.com/dop251/goja) | Handle BigInt operands past 64 bits in == with a Boolean and in shifts | [#810](https://github.com/dop251/goja/pull/810) | 0 |
