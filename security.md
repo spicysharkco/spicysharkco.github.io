@@ -25,7 +25,7 @@ An entry appears here after a fix ships, after the maintainer publishes an advis
 
 ## Private reports
 
-As of 2026-10-19, eight other reports are filed privately with their maintainers. I name none of them until a fix ships, the maintainer publishes an advisory, or the 45 days pass.
+As of 2026-10-20, nine other reports are filed privately with their maintainers. I name none of them until a fix ships, the maintainer publishes an advisory, or the 45 days pass.
 
 ## Method notes
 
