@@ -3,7 +3,7 @@ layout: page
 title: Work
 permalink: /work/
 ---
-102 merged pull requests in 39 repositories under 33 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+113 merged pull requests in 49 repositories under 43 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
@@ -23,31 +23,42 @@ permalink: /work/
 | 2026-10-19 | [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) | fix(distributions): preserve Levy support through pytree round trips | [#2363](https://github.com/pyro-ppl/numpyro/pull/2363) | 1 |
 | 2026-10-19 | [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) | refactor(distributions): derive the interval supports from low and high | [#2376](https://github.com/pyro-ppl/numpyro/pull/2376) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: match the whole string when a match() pattern has alternation | [#255](https://github.com/ohler55/ojg/pull/255) | 0 |
+| 2026-10-19 | [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) | fix: do not require \*args and \*\*kwargs in pydantic argument validation | [#899](https://github.com/dbos-inc/dbos-transact-py/pull/899) | 2 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: accept a tab, line feed or carriage return as blank space | [#256](https://github.com/ohler55/ojg/pull/256) | 0 |
+| 2026-10-19 | [benbjohnson/litestream](https://github.com/benbjohnson/litestream) | fix(sftp): fsync LTX files before renaming them into place | [#1574](https://github.com/benbjohnson/litestream/pull/1574) | 4 |
+| 2026-10-19 | [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) | accept form content types with parameters in the path length fallback | [#7538](https://github.com/grpc-ecosystem/grpc-gateway/pull/7538) | 1 |
 | 2026-10-19 | [dop251/goja](https://github.com/dop251/goja) | Call exec from the generic RegExp replace and split | [#807](https://github.com/dop251/goja/pull/807) | 0 |
-| 2026-10-19 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Copy hook lists in `with_options` for tasks and flows | [#23442](https://github.com/PrefectHQ/prefect/pull/23442) | 0 |
+| 2026-10-19 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Copy hook lists in \`with\_options\` for tasks and flows | [#23442](https://github.com/PrefectHQ/prefect/pull/23442) | 0 |
 | 2026-10-19 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | fix(llm): keep an end tag after the reasoning ended as stream content | [#5756](https://github.com/xorbitsai/inference/pull/5756) | 0 |
 | 2026-10-19 | [dop251/goja](https://github.com/dop251/goja) | Call exec from RegExp.prototype.test | [#806](https://github.com/dop251/goja/pull/806) | 0 |
 | 2026-10-19 | [dop251/goja](https://github.com/dop251/goja) | Accept primitive sources in TypedArray.from | [#805](https://github.com/dop251/goja/pull/805) | 0 |
+| 2026-10-19 | [opencv/opencv](https://github.com/opencv/opencv) | stereo: fix out-of-bounds access in validateDisparity (5.x port of \#30316) | [#30344](https://github.com/opencv/opencv/pull/30344) | 2 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | oj, gen, sen: decode an escaped UTF-16 surrogate pair in strings | [#254](https://github.com/ohler55/ojg/pull/254) | 0 |
 | 2026-10-19 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(controller): return the DataStore lookup error from Reconcile | [#1365](https://github.com/clastix/kamaji/pull/1365) | 0 |
 | 2026-10-19 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(certs): avoid nil panic in SAN check log | [#1363](https://github.com/clastix/kamaji/pull/1363) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: accept \\/ and escaped surrogate pairs in quoted strings | [#253](https://github.com/ohler55/ojg/pull/253) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: accept a negative number right after an operator in filters | [#252](https://github.com/ohler55/ojg/pull/252) | 0 |
-| 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: let equal operands satisfy <= and >= in filters | [#251](https://github.com/ohler55/ojg/pull/251) | 0 |
+| 2026-10-19 | [llm-d/llm-d-inference-sim](https://github.com/llm-d/llm-d-inference-sim) | Keep dataset downloads retryable after HTTP errors | [#802](https://github.com/llm-d/llm-d-inference-sim/pull/802) | 2 |
+| 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: let equal operands satisfy \<= and \>= in filters | [#251](https://github.com/ohler55/ojg/pull/251) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: count characters, not bytes, in length() of a string | [#250](https://github.com/ohler55/ojg/pull/250) | 0 |
 | 2026-10-19 | [dop251/goja](https://github.com/dop251/goja) | Throw RangeError in Array.from for array-likes longer than 2\*\*32-1 | [#803](https://github.com/dop251/goja/pull/803) | 1 |
 | 2026-10-19 | [pymc-devs/pymc](https://github.com/pymc-devs/pymc) | Improve VonMises logp overflow for large kappa | [#8503](https://github.com/pymc-devs/pymc/pull/8503) | 0 |
 | 2026-10-19 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Default an unset RayClusterFleet strategy to a 25% RollingUpdate | [#3169](https://github.com/vllm-project/aibrix/pull/3169) | 0 |
 | 2026-10-19 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | fix(llm): keep a start tag after the end tag as content in non-stream reasoning | [#5751](https://github.com/xorbitsai/inference/pull/5751) | 0 |
+| 2026-10-19 | [klauspost/compress](https://github.com/klauspost/compress) | gzip: write and read a zero MTIME for a zero ModTime | [#1268](https://github.com/klauspost/compress/pull/1268) | 1 |
+| 2026-10-19 | [prometheus/client\_golang](https://github.com/prometheus/client_golang) | testutil: return all metrics from GatherAndFormat without names | [#2178](https://github.com/prometheus/client_golang/pull/2178) | 2 |
 | 2026-10-19 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | fix(llm): hold leading whitespace before inserting the stream reasoning start tag | [#5746](https://github.com/xorbitsai/inference/pull/5746) | 0 |
+| 2026-10-19 | [danielqsj/kafka\_exporter](https://github.com/danielqsj/kafka_exporter) | fix: treat an empty sasl.mechanism as PLAIN | [#541](https://github.com/danielqsj/kafka_exporter/pull/541) | 1 |
 | 2026-10-19 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix duplicate glob results when ignoring case | [#247](https://github.com/facelessuser/wcmatch/pull/247) | 0 |
 | 2026-10-19 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Delete terminated pods so a PodSet can replace them | [#3146](https://github.com/vllm-project/aibrix/pull/3146) | 1 |
-| 2026-10-19 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix `:in-range` and `:out-of-range` for `week` inputs with a week-year of 10000 or more | [#322](https://github.com/facelessuser/soupsieve/pull/322) | 0 |
+| 2026-10-19 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix \`:in-range\` and \`:out-of-range\` for \`week\` inputs with a week-year of 10000 or more | [#322](https://github.com/facelessuser/soupsieve/pull/322) | 0 |
 | 2026-10-19 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix extended star group directly after a star | [#246](https://github.com/facelessuser/wcmatch/pull/246) | 0 |
-| 2026-10-19 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix `:nth-last-child(an+b of S)` when the first element checked does not match `S` | [#320](https://github.com/facelessuser/soupsieve/pull/320) | 0 |
+| 2026-10-19 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix \`:nth-last-child(an+b of S)\` when the first element checked does not match \`S\` | [#320](https://github.com/facelessuser/soupsieve/pull/320) | 0 |
 | 2026-10-19 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: bind ! more tightly than && and \|\| in filters | [#248](https://github.com/ohler55/ojg/pull/248) | 0 |
+| 2026-10-18 | [arran4/golang-ical](https://github.com/arran4/golang-ical) | Match the mailto scheme case-insensitively | [#163](https://github.com/arran4/golang-ical/pull/163) | 0 |
 | 2026-10-18 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: treat a parenthesized @.x as an existence check in filters | [#246](https://github.com/ohler55/ojg/pull/246) | 0 |
+| 2026-10-18 | [fonttools/fonttools](https://github.com/fonttools/fonttools) | \[scaleUpem\] Scale the MATH lengths that are not MathValueRecords | [#4327](https://github.com/fonttools/fonttools/pull/4327) | 0 |
+| 2026-10-18 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix: reject invalid DMARC\_BUILDER policy and tag values | [#5013](https://github.com/DNSControl/dnscontrol/pull/5013) | 0 |
 | 2026-10-18 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix inverse extended glob followed by a nested extended glob | [#245](https://github.com/facelessuser/wcmatch/pull/245) | 0 |
 | 2026-10-18 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: use value equality for the in filter operator | [#243](https://github.com/ohler55/ojg/pull/243) | 0 |
 | 2026-10-18 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Serve the standardized aibrix counters from the runtime metrics endpoint | [#3147](https://github.com/vllm-project/aibrix/pull/3147) | 0 |
