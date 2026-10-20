@@ -3,10 +3,17 @@ layout: page
 title: Work
 permalink: /work/
 ---
-146 merged pull requests in 56 repositories under 48 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+153 merged pull requests in 56 repositories under 48 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-20 | [clastix/kamaji](https://github.com/clastix/kamaji) | docs(reference): fix --datastore and --migrate-image rows | [#1381](https://github.com/clastix/kamaji/pull/1381) | 0 |
+| 2026-10-20 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: reject an array index that does not fit an int | [#265](https://github.com/ohler55/ojg/pull/265) | 0 |
+| 2026-10-20 | [ohler55/ojg](https://github.com/ohler55/ojg) | oj, sen: read an integer of 20 or more digits as a number | [#264](https://github.com/ohler55/ojg/pull/264) | 0 |
+| 2026-10-20 | [minio/minio-go](https://github.com/minio/minio-go) | fix: fail a short parallel streamed upload before sending the short part | [#2330](https://github.com/minio/minio-go/pull/2330) | 0 |
+| 2026-10-20 | [ohler55/ojg](https://github.com/ohler55/ojg) | gen, oj, sen: accept an exponent right after the integer digits | [#263](https://github.com/ohler55/ojg/pull/263) | 0 |
+| 2026-10-20 | [ohler55/ojg](https://github.com/ohler55/ojg) | gen: keep the minus sign of a negative exponent on a big number | [#262](https://github.com/ohler55/ojg/pull/262) | 0 |
+| 2026-10-20 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | \[Bug\] Time and meter a weighted pd routing strategy as pd | [#3201](https://github.com/vllm-project/aibrix/pull/3201) | 0 |
 | 2026-10-20 | [derailed/k9s](https://github.com/derailed/k9s) | fix(config): release the aliases lock when an aliases file fails to parse | [#4318](https://github.com/derailed/k9s/pull/4318) | 0 |
 | 2026-10-20 | [clastix/kamaji](https://github.com/clastix/kamaji) | docs(guides): fix write permissions field names | [#1379](https://github.com/clastix/kamaji/pull/1379) | 0 |
 | 2026-10-20 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | hls: fix MPEG-TS variant failing on streams with several audio tracks | [#6394](https://github.com/bluenviron/mediamtx/pull/6394) | 0 |
