@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-159 merged pull requests in 58 repositories under 49 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-20.
+161 merged pull requests in 59 repositories under 50 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-21.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-21 | [helmfile/helmfile](https://github.com/helmfile/helmfile) | fix: honor release-level skipSchemaValidation false | [#2837](https://github.com/helmfile/helmfile/pull/2837) | 0 |
+| 2026-10-21 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: render the minimum array index correctly | [#266](https://github.com/ohler55/ojg/pull/266) | 0 |
 | 2026-10-20 | [twmb/franz-go](https://github.com/twmb/franz-go) | kadm: leave the caller's groups alone in Lag | [#1507](https://github.com/twmb/franz-go/pull/1507) | 2 |
 | 2026-10-20 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix(p/BIND): Improve GetZones when filenameformat includes %f or %F | [#5026](https://github.com/DNSControl/dnscontrol/pull/5026) | 0 |
 | 2026-10-20 | [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | fix(approximateprefix): size the autotuned LRU in router blocks | [#3476](https://github.com/llm-d/llm-d-router/pull/3476) | 4 |
