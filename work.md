@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-161 merged pull requests in 59 repositories under 50 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-21.
+163 merged pull requests in 61 repositories under 51 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-21.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-21 | [prometheus-community/elasticsearch\_exporter](https://github.com/prometheus-community/elasticsearch_exporter) | fix(clustersettings): export watermark bytes given with uppercase units | [#1260](https://github.com/prometheus-community/elasticsearch_exporter/pull/1260) | 0 |
+| 2026-10-21 | [prometheus-community/postgres\_exporter](https://github.com/prometheus-community/postgres_exporter) | stat\_activity\_autovacuum: add datname and schemaname labels | [#1419](https://github.com/prometheus-community/postgres_exporter/pull/1419) | 4 |
 | 2026-10-21 | [helmfile/helmfile](https://github.com/helmfile/helmfile) | fix: honor release-level skipSchemaValidation false | [#2837](https://github.com/helmfile/helmfile/pull/2837) | 0 |
 | 2026-10-21 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: render the minimum array index correctly | [#266](https://github.com/ohler55/ojg/pull/266) | 0 |
 | 2026-10-20 | [twmb/franz-go](https://github.com/twmb/franz-go) | kadm: leave the caller's groups alone in Lag | [#1507](https://github.com/twmb/franz-go/pull/1507) | 2 |
