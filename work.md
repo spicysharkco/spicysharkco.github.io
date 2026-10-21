@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-163 merged pull requests in 61 repositories under 51 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-21.
+164 merged pull requests in 61 repositories under 51 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-21.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-21 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(cmd): bind the zap logger flags on the root command | [#1383](https://github.com/clastix/kamaji/pull/1383) | 0 |
 | 2026-10-21 | [prometheus-community/elasticsearch\_exporter](https://github.com/prometheus-community/elasticsearch_exporter) | fix(clustersettings): export watermark bytes given with uppercase units | [#1260](https://github.com/prometheus-community/elasticsearch_exporter/pull/1260) | 0 |
 | 2026-10-21 | [prometheus-community/postgres\_exporter](https://github.com/prometheus-community/postgres_exporter) | stat\_activity\_autovacuum: add datname and schemaname labels | [#1419](https://github.com/prometheus-community/postgres_exporter/pull/1419) | 4 |
 | 2026-10-21 | [helmfile/helmfile](https://github.com/helmfile/helmfile) | fix: honor release-level skipSchemaValidation false | [#2837](https://github.com/helmfile/helmfile/pull/2837) | 0 |
