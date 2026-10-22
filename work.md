@@ -3,10 +3,20 @@ layout: page
 title: Work
 permalink: /work/
 ---
-181 merged pull requests in 66 repositories under 56 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-22.
+191 merged pull requests in 69 repositories under 58 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-22.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-22 | [dpranke/pyjson5](https://github.com/dpranke/pyjson5) | quote identifier keys above U+FFFF when ensure\_ascii is true | [#128](https://github.com/dpranke/pyjson5/pull/128) | 3 |
+| 2026-10-22 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | moq: fix channel count of 8-channel MPEG-4 Audio tracks | [#6406](https://github.com/bluenviron/mediamtx/pull/6406) | 0 |
+| 2026-10-22 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix \`:default\` for submit buttons without \`type="submit"\` | [#325](https://github.com/facelessuser/soupsieve/pull/325) | 0 |
+| 2026-10-22 | [twmb/franz-go](https://github.com/twmb/franz-go) | kgo: format midnight and noon as 12 in strftime %I, %l and %r | [#1518](https://github.com/twmb/franz-go/pull/1518) | 0 |
+| 2026-10-22 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix glob missing a file name when \`dir\_fd\` is 0 | [#251](https://github.com/facelessuser/wcmatch/pull/251) | 0 |
+| 2026-10-22 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: give each warmup step its own scrape\_timeout | [#1129](https://github.com/burningalchemist/sql_exporter/pull/1129) | 0 |
+| 2026-10-22 | [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) | fix: reject MSTeamsV2 receivers without a webhook URL | [#8908](https://github.com/prometheus-operator/prometheus-operator/pull/8908) | 0 |
+| 2026-10-22 | [stern/stern](https://github.com/stern/stern) | fix: keep inline regexp flags within their own --highlight pattern | [#395](https://github.com/stern/stern/pull/395) | 0 |
+| 2026-10-22 | [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) | \[filters\] Reject voxel indices beyond int range in VoxelGridCovariance and VoxelGrid | [#6492](https://github.com/PointCloudLibrary/pcl/pull/6492) | 6 |
+| 2026-10-22 | [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) | 🐛 Fix the source links in e2e config to be allowed and kept as they are | [#14372](https://github.com/kubernetes-sigs/cluster-api/pull/14372) | 6 |
 | 2026-10-22 | [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) | fix: reject Webex receivers without credentials in the CRD | [#8906](https://github.com/prometheus-operator/prometheus-operator/pull/8906) | 1 |
 | 2026-10-22 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | api: fix channel count of 8-channel MPEG-4 Audio tracks | [#6405](https://github.com/bluenviron/mediamtx/pull/6405) | 0 |
 | 2026-10-22 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Update \`:disabled\` and \`:enabled\` for \`option\` and \`optgroup\` inside a disabled \`select\` | [#324](https://github.com/facelessuser/soupsieve/pull/324) | 0 |
