@@ -3,10 +3,13 @@ layout: page
 title: Work
 permalink: /work/
 ---
-177 merged pull requests in 65 repositories under 55 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-22.
+180 merged pull requests in 65 repositories under 55 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-22.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-22 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | api: fix channel count of 8-channel MPEG-4 Audio tracks | [#6405](https://github.com/bluenviron/mediamtx/pull/6405) | 0 |
+| 2026-10-22 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Update \`:disabled\` and \`:enabled\` for \`option\` and \`optgroup\` inside a disabled \`select\` | [#324](https://github.com/facelessuser/soupsieve/pull/324) | 0 |
+| 2026-10-22 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: apply the global settings on reload | [#1128](https://github.com/burningalchemist/sql_exporter/pull/1128) | 0 |
 | 2026-10-21 | [PyCQA/flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) | B012: don't flag break/continue in an async for loop inside finally | [#602](https://github.com/PyCQA/flake8-bugbear/pull/602) | 3 |
 | 2026-10-21 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | fix(pki): name spec.subject.postalCodes in request mismatch violations | [#9488](https://github.com/cert-manager/cert-manager/pull/9488) | 1 |
 | 2026-10-21 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: First on a reflected slice returns the value Get returns first | [#268](https://github.com/ohler55/ojg/pull/268) | 0 |
