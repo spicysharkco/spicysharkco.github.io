@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-180 merged pull requests in 65 repositories under 55 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-22.
+181 merged pull requests in 66 repositories under 56 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-22.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-22 | [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) | fix: reject Webex receivers without credentials in the CRD | [#8906](https://github.com/prometheus-operator/prometheus-operator/pull/8906) | 1 |
 | 2026-10-22 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | api: fix channel count of 8-channel MPEG-4 Audio tracks | [#6405](https://github.com/bluenviron/mediamtx/pull/6405) | 0 |
 | 2026-10-22 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Update \`:disabled\` and \`:enabled\` for \`option\` and \`optgroup\` inside a disabled \`select\` | [#324](https://github.com/facelessuser/soupsieve/pull/324) | 0 |
 | 2026-10-22 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: apply the global settings on reload | [#1128](https://github.com/burningalchemist/sql_exporter/pull/1128) | 0 |
