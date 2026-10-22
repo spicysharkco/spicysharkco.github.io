@@ -6,6 +6,6 @@ permalink: /about/
 
 **AI infra, performance, robotics.**
 
-I send fixes upstream for what I run into: Kubernetes, LLM inference, coding agents, ROS 2, OpenCV. Each fix goes with a test and a number, and the story ends up here: the bug, the fix, and what review taught me. Merged so far in k3s, kine, kube-router, cri-tools, redis-py, OpenCV and slam_toolbox (ROS 2).
+Making the AI stack faster and harder to break, one merged fix at a time. Each fix goes with a test and a number, and the story ends up here: the bug, the fix, and what review taught me. Merged so far in k3s, kine, kube-router, cri-tools, redis-py, OpenCV and slam_toolbox (ROS 2).
 
 [X](https://x.com/spicysharkco) · [GitHub](https://github.com/spicysharkco) · [YouTube](https://www.youtube.com/@spicysharkco) · [Reddit](https://www.reddit.com/user/spicysharkco/) · [Instagram](https://www.instagram.com/spicysharkco/) · [RSS](/feed.xml)
