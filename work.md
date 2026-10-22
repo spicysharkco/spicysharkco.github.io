@@ -3,10 +3,22 @@ layout: page
 title: Work
 permalink: /work/
 ---
-165 merged pull requests in 61 repositories under 51 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-21.
+177 merged pull requests in 65 repositories under 55 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-22.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-21 | [PyCQA/flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) | B012: don't flag break/continue in an async for loop inside finally | [#602](https://github.com/PyCQA/flake8-bugbear/pull/602) | 3 |
+| 2026-10-21 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | fix(pki): name spec.subject.postalCodes in request mismatch violations | [#9488](https://github.com/cert-manager/cert-manager/pull/9488) | 1 |
+| 2026-10-21 | [ohler55/ojg](https://github.com/ohler55/ojg) | jp: First on a reflected slice returns the value Get returns first | [#268](https://github.com/ohler55/ojg/pull/268) | 0 |
+| 2026-10-21 | [ohler55/ojg](https://github.com/ohler55/ojg) | asm: reject a substr call with too few arguments | [#267](https://github.com/ohler55/ojg/pull/267) | 0 |
+| 2026-10-21 | [stern/stern](https://github.com/stern/stern) | fix: show the timestamp in extjson and ppextjson output | [#392](https://github.com/stern/stern/pull/392) | 1 |
+| 2026-10-21 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix(LOC\_BUILDER\_DD): accept zero and reject missing coordinates | [#5027](https://github.com/DNSControl/dnscontrol/pull/5027) | 0 |
+| 2026-10-21 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix: make IGNORE\_TARGET match HTTPS and SVCB targets | [#5028](https://github.com/DNSControl/dnscontrol/pull/5028) | 0 |
+| 2026-10-21 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | \[FIXED\] Use mirror-aware prefix in legacy KV Create and Update | [#2203](https://github.com/nats-io/nats.go/pull/2203) | 4 |
+| 2026-10-21 | [dop251/goja](https://github.com/dop251/goja) | Fix == for numeric strings and convert Unicode strings to numbers | [#815](https://github.com/dop251/goja/pull/815) | 0 |
+| 2026-10-21 | [helmfile/helmfile](https://github.com/helmfile/helmfile) | fix: honor release-level syncReleaseLabels false | [#2839](https://github.com/helmfile/helmfile/pull/2839) | 0 |
+| 2026-10-21 | [helmfile/helmfile](https://github.com/helmfile/helmfile) | fix: honor release-level takeOwnership false over helmDefaults | [#2838](https://github.com/helmfile/helmfile/pull/2838) | 0 |
+| 2026-10-21 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: distinguish query metrics by collector | [#1127](https://github.com/burningalchemist/sql_exporter/pull/1127) | 0 |
 | 2026-10-21 | [flyteorg/flyte](https://github.com/flyteorg/flyte) | fix(cache): refresh entries older than maxCacheAge instead of missing again | [#8204](https://github.com/flyteorg/flyte/pull/8204) | 0 |
 | 2026-10-21 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(cmd): bind the zap logger flags on the root command | [#1383](https://github.com/clastix/kamaji/pull/1383) | 0 |
 | 2026-10-21 | [prometheus-community/elasticsearch\_exporter](https://github.com/prometheus-community/elasticsearch_exporter) | fix(clustersettings): export watermark bytes given with uppercase units | [#1260](https://github.com/prometheus-community/elasticsearch_exporter/pull/1260) | 0 |
