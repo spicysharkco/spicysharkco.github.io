@@ -3,12 +3,22 @@ layout: page
 title: Work
 permalink: /work/
 ---
-203 merged pull requests in 69 repositories under 58 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-23.
+213 merged pull requests in 72 repositories under 59 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-23.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
 | 2026-10-23 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(file): archive the files of a directory added through a symlink | [#1674](https://github.com/oras-project/oras-go/pull/1674) | 0 |
+| 2026-10-23 | [fsspec/filesystem\_spec](https://github.com/fsspec/filesystem_spec) | Avoid reference cycles when a sync() call fails | [#2295](https://github.com/fsspec/filesystem_spec/pull/2295) | 8 |
+| 2026-10-23 | [facelessuser/backrefs](https://github.com/facelessuser/backrefs) | Fix wrong replacement text or errors after casing hex escapes | [#206](https://github.com/facelessuser/backrefs/pull/206) | 0 |
+| 2026-10-23 | [dpranke/pyjson5](https://github.com/dpranke/pyjson5) | escape U+007F when ensure\_ascii is true | [#132](https://github.com/dpranke/pyjson5/pull/132) | 0 |
+| 2026-10-23 | [kubeflow/trainer](https://github.com/kubeflow/trainer) | fix(runtimes): validate inherited TorchTune node counts | [#4255](https://github.com/kubeflow/trainer/pull/4255) | 6 |
+| 2026-10-23 | [ohler55/ojg](https://github.com/ohler55/ojg) | alt: print large unsigned integers in String without a minus sign | [#270](https://github.com/ohler55/ojg/pull/270) | 1 |
+| 2026-10-23 | [ohler55/ojg](https://github.com/ohler55/ojg) | alt: keep every digit of a gen.Float in String | [#269](https://github.com/ohler55/ojg/pull/269) | 1 |
+| 2026-10-23 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(tcp): refresh endpoint after address changes | [#1392](https://github.com/clastix/kamaji/pull/1392) | 0 |
+| 2026-10-23 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: reject static labels that repeat key or value labels | [#1132](https://github.com/burningalchemist/sql_exporter/pull/1132) | 0 |
+| 2026-10-23 | [facelessuser/coloraide](https://github.com/facelessuser/coloraide) | Fix blend modes ignoring backdrop alpha | [#534](https://github.com/facelessuser/coloraide/pull/534) | 0 |
 | 2026-10-23 | [facelessuser/coloraide](https://github.com/facelessuser/coloraide) | Fix continuous and spline hue arcs across undefined hues | [#535](https://github.com/facelessuser/coloraide/pull/535) | 0 |
+| 2026-10-23 | [helmfile/helmfile](https://github.com/helmfile/helmfile) | fix: honor release kubeVersion over the detected one in diff | [#2842](https://github.com/helmfile/helmfile/pull/2842) | 1 |
 | 2026-10-23 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(content/oci): report missing blobs referenced through present subjects | [#1670](https://github.com/oras-project/oras-go/pull/1670) | 0 |
 | 2026-10-23 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix attribute inequality excluding values with a matching prefix | [#328](https://github.com/facelessuser/soupsieve/pull/328) | 0 |
 | 2026-10-23 | [facelessuser/bracex](https://github.com/facelessuser/bracex) | Fix ${...} ending brace groups early | [#53](https://github.com/facelessuser/bracex/pull/53) | 0 |
