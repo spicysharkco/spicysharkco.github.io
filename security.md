@@ -22,10 +22,11 @@ An entry appears here after a fix ships, after the maintainer publishes an advis
 |---|---|---|---|---|
 | 2026-10-17 | michaelfeil/infinity | Server-side request forgery: the server fetched images and audio from any URL a client sent, without checking where the URL pointed | fixed in 0.0.78; CVE ID not yet assigned | [write-up]({% post_url 2026-10-19-infinity-media-url-fetch-ssrf-fixed-in-0-0-78 %}) |
 | 2026-10-17 | SeldonIO/MLServer | Server-side request forgery: the Hugging Face runtime passes a client-supplied media string to a `transformers` pipeline, which fetches it as a URL | open (public issue) | [issue #2622](https://github.com/SeldonIO/MLServer/issues/2622) |
+| 2026-10-20 | kubeflow/hub | Credential disclosure: the skill preview endpoint let a caller name a stored git credential and a repository URL, and git then sent that credential to the host the caller chose | fixed in 0.3.18; advisory GHSA-f88h-rcrv-66j9 published 2026-10-23; CVE ID not yet assigned | [write-up]({% post_url 2026-10-23-kubeflow-hub-skill-preview-could-leak-a-stored-git-credential-fixed-in-0-3-18 %}) |
 
 ## Private reports
 
-As of 2026-10-20, nine other reports are filed privately with their maintainers. I name none of them until a fix ships, the maintainer publishes an advisory, or the 45 days pass.
+As of 2026-10-23, eight other reports are filed privately with their maintainers. I name none of them until a fix ships, the maintainer publishes an advisory, or the 45 days pass.
 
 ## Method notes
 
