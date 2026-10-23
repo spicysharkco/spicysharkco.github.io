@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-214 merged pull requests in 72 repositories under 59 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-23.
+215 merged pull requests in 72 repositories under 59 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-23.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-23 | [ohler55/ojg](https://github.com/ohler55/ojg) | oj, pretty: print large unsigned integers in color and pretty output without a minus sign | [#271](https://github.com/ohler55/ojg/pull/271) | 0 |
 | 2026-10-23 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(file): unpack directories that are read-only for their owner | [#1679](https://github.com/oras-project/oras-go/pull/1679) | 0 |
 | 2026-10-23 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(file): archive the files of a directory added through a symlink | [#1674](https://github.com/oras-project/oras-go/pull/1674) | 0 |
 | 2026-10-23 | [fsspec/filesystem\_spec](https://github.com/fsspec/filesystem_spec) | Avoid reference cycles when a sync() call fails | [#2295](https://github.com/fsspec/filesystem_spec/pull/2295) | 8 |
