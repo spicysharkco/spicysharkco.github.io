@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-194 merged pull requests in 69 repositories under 58 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-23.
+195 merged pull requests in 69 repositories under 58 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-23.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-23 | [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) | Fix unwanted colon attributes in BracketSpan | [#3007](https://github.com/facelessuser/pymdown-extensions/pull/3007) | 0 |
 | 2026-10-23 | [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) | Fix FancyLists splitting alphabetical lists at i after blank lines | [#3006](https://github.com/facelessuser/pymdown-extensions/pull/3006) | 0 |
 | 2026-10-23 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix WcMatch returning a file after a directory hook aborts | [#252](https://github.com/facelessuser/wcmatch/pull/252) | 0 |
 | 2026-10-22 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: warm up collectors when scrape\_timeout is zero | [#1130](https://github.com/burningalchemist/sql_exporter/pull/1130) | 0 |
