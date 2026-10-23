@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-197 merged pull requests in 69 repositories under 58 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-23.
+198 merged pull requests in 69 repositories under 58 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-23.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-23 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: honor no\_prepared\_statement on query\_ref metrics | [#1131](https://github.com/burningalchemist/sql_exporter/pull/1131) | 0 |
 | 2026-10-23 | [facelessuser/coloraide](https://github.com/facelessuser/coloraide) | Fix CSS colors with two channels before the alpha slash | [#533](https://github.com/facelessuser/coloraide/pull/533) | 0 |
 | 2026-10-23 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(tcp): clear removed DataStore overrides | [#1389](https://github.com/clastix/kamaji/pull/1389) | 0 |
 | 2026-10-23 | [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) | Fix unwanted colon attributes in BracketSpan | [#3007](https://github.com/facelessuser/pymdown-extensions/pull/3007) | 0 |
