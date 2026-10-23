@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-202 merged pull requests in 69 repositories under 58 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-23.
+203 merged pull requests in 69 repositories under 58 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-23.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-23 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(file): archive the files of a directory added through a symlink | [#1674](https://github.com/oras-project/oras-go/pull/1674) | 0 |
 | 2026-10-23 | [facelessuser/coloraide](https://github.com/facelessuser/coloraide) | Fix continuous and spline hue arcs across undefined hues | [#535](https://github.com/facelessuser/coloraide/pull/535) | 0 |
 | 2026-10-23 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(content/oci): report missing blobs referenced through present subjects | [#1670](https://github.com/oras-project/oras-go/pull/1670) | 0 |
 | 2026-10-23 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix attribute inequality excluding values with a matching prefix | [#328](https://github.com/facelessuser/soupsieve/pull/328) | 0 |
