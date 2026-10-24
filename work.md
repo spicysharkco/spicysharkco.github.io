@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-220 merged pull requests in 72 repositories under 59 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-24.
+221 merged pull requests in 72 repositories under 59 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-24.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-24 | [facelessuser/backrefs](https://github.com/facelessuser/backrefs) | Fix errors from an empty format spec in format replace templates | [#207](https://github.com/facelessuser/backrefs/pull/207) | 0 |
 | 2026-10-24 | [stern/stern](https://github.com/stern/stern) | fix: honor Kubernetes and throttling options in config files | [#398](https://github.com/stern/stern/pull/398) | 0 |
 | 2026-10-24 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: build with -tags nomysql | [#1137](https://github.com/burningalchemist/sql_exporter/pull/1137) | 0 |
 | 2026-10-24 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(remote): accept a blob upload Location host that differs only in letter case | [#1683](https://github.com/oras-project/oras-go/pull/1683) | 0 |
