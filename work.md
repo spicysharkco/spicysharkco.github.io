@@ -3,11 +3,14 @@ layout: page
 title: Work
 permalink: /work/
 ---
-217 merged pull requests in 72 repositories under 59 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-24.
+220 merged pull requests in 72 repositories under 59 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-24.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-24 | [stern/stern](https://github.com/stern/stern) | fix: honor Kubernetes and throttling options in config files | [#398](https://github.com/stern/stern/pull/398) | 0 |
+| 2026-10-24 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: build with -tags nomysql | [#1137](https://github.com/burningalchemist/sql_exporter/pull/1137) | 0 |
 | 2026-10-24 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(remote): accept a blob upload Location host that differs only in letter case | [#1683](https://github.com/oras-project/oras-go/pull/1683) | 0 |
+| 2026-10-24 | [helmfile/helmfile](https://github.com/helmfile/helmfile) | fix: include all failed deletions in release summaries | [#2843](https://github.com/helmfile/helmfile/pull/2843) | 1 |
 | 2026-10-24 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: retry MySQL TLS config registration after a failure | [#1136](https://github.com/burningalchemist/sql_exporter/pull/1136) | 0 |
 | 2026-10-23 | [ohler55/ojg](https://github.com/ohler55/ojg) | oj, pretty: print large unsigned integers in color and pretty output without a minus sign | [#271](https://github.com/ohler55/ojg/pull/271) | 0 |
 | 2026-10-23 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(file): unpack directories that are read-only for their owner | [#1679](https://github.com/oras-project/oras-go/pull/1679) | 0 |
