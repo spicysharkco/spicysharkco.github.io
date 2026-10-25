@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-233 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
+234 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(credentials): save through a symlinked config file | [#1716](https://github.com/oras-project/oras-go/pull/1716) | 0 |
 | 2026-10-25 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix glob matching a hidden name with a wildcard after a leading star | [#253](https://github.com/facelessuser/wcmatch/pull/253) | 0 |
 | 2026-10-25 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix `:dir()` ignoring the value of an input with a missing or empty type | [#331](https://github.com/facelessuser/soupsieve/pull/331) | 0 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(remote): do not read a rejected reference with a repository path as a bare digest | [#1715](https://github.com/oras-project/oras-go/pull/1715) | 0 |
