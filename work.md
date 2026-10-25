@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-241 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
+242 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-25 | [facelessuser/bracex](https://github.com/facelessuser/bracex) | Fix invalid sequences splitting at a later comma | [#54](https://github.com/facelessuser/bracex/pull/54) | 0 |
 | 2026-10-25 | [facelessuser/coloraide](https://github.com/facelessuser/coloraide) | Fix case-sensitive keywords in CSS color() | [#538](https://github.com/facelessuser/coloraide/pull/538) | 0 |
 | 2026-10-25 | [facelessuser/backrefs](https://github.com/facelessuser/backrefs) | Fix Unicode properties missing CJK ideographs and Hangul syllables | [#209](https://github.com/facelessuser/backrefs/pull/209) | 0 |
 | 2026-10-25 | [facelessuser/coloraide](https://github.com/facelessuser/coloraide) | Fix CSS color functions accepting a trailing comma | [#537](https://github.com/facelessuser/coloraide/pull/537) | 0 |
