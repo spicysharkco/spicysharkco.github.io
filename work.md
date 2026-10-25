@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-223 merged pull requests in 74 repositories under 60 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
+224 merged pull requests in 74 repositories under 60 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-25 | [cloudnativelabs/kube-router](https://github.com/cloudnativelabs/kube-router) | fix(NSC): stop services with matching joined names from sharing a service ID | [#2201](https://github.com/cloudnativelabs/kube-router/pull/2201) | 8 |
 | 2026-10-24 | [alitto/pond](https://github.com/alitto/pond) | fix(pool): skip queued Go tasks when the pool context is canceled | [#150](https://github.com/alitto/pond/pull/150) | 6 |
 | 2026-10-24 | [apache/iceberg-rust](https://github.com/apache/iceberg-rust) | fix(spec): read float JSON values like iceberg-java | [#3476](https://github.com/apache/iceberg-rust/pull/3476) | 8 |
 | 2026-10-24 | [facelessuser/backrefs](https://github.com/facelessuser/backrefs) | Fix errors from an empty format spec in format replace templates | [#207](https://github.com/facelessuser/backrefs/pull/207) | 0 |
