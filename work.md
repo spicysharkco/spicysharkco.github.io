@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-256 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
+257 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(credentials): remove the plain-text entry when deleting through a helper | [#1722](https://github.com/oras-project/oras-go/pull/1722) | 0 |
 | 2026-10-25 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: name the value\_label key correctly | [#1142](https://github.com/burningalchemist/sql_exporter/pull/1142) | 0 |
 | 2026-10-25 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(otelunifi): record switch port PoE current in amps | [#1124](https://github.com/unpoller/unpoller/pull/1124) | 0 |
 | 2026-10-25 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix: skip null system temperature sensors | [#1123](https://github.com/unpoller/unpoller/pull/1123) | 0 |
