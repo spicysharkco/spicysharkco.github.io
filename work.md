@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-252 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
+253 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-25 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: add missing help and fix setting levels on the PgBouncer page | [#1141](https://github.com/burningalchemist/sql_exporter/pull/1141) | 0 |
 | 2026-10-25 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: document the Vault engine\_version parameter | [#1140](https://github.com/burningalchemist/sql_exporter/pull/1140) | 0 |
 | 2026-10-25 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: correct the gcpsecretmanager reference syntax | [#1139](https://github.com/burningalchemist/sql_exporter/pull/1139) | 0 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(credentials): use the config file for an empty credHelpers entry | [#1721](https://github.com/oras-project/oras-go/pull/1721) | 0 |
