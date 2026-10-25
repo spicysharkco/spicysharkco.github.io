@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-230 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
+232 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-25 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix glob matching a hidden name with a wildcard after a leading star | [#253](https://github.com/facelessuser/wcmatch/pull/253) | 0 |
+| 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(remote): do not read a rejected reference with a repository path as a bare digest | [#1715](https://github.com/oras-project/oras-go/pull/1715) | 0 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(config): apply a registries.conf repository prefix to digest references | [#1714](https://github.com/oras-project/oras-go/pull/1714) | 0 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(auth): accept bearer challenge parameter names in other letter case | [#1713](https://github.com/oras-project/oras-go/pull/1713) | 0 |
 | 2026-10-25 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | stream: fix 8-channel AAC always-available tracks refusing 7.1 publishers | [#6414](https://github.com/bluenviron/mediamtx/pull/6414) | 1 |
