@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-243 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
+244 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(credentials): treat a null config file as empty | [#1719](https://github.com/oras-project/oras-go/pull/1719) | 0 |
 | 2026-10-25 | [facelessuser/backrefs](https://github.com/facelessuser/backrefs) | Fix error when casing a character escape gives two characters | [#208](https://github.com/facelessuser/backrefs/pull/208) | 1 |
 | 2026-10-25 | [facelessuser/bracex](https://github.com/facelessuser/bracex) | Fix invalid sequences splitting at a later comma | [#54](https://github.com/facelessuser/bracex/pull/54) | 0 |
 | 2026-10-25 | [facelessuser/coloraide](https://github.com/facelessuser/coloraide) | Fix case-sensitive keywords in CSS color() | [#538](https://github.com/facelessuser/coloraide/pull/538) | 0 |
