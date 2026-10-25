@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-238 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
+239 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-25 | [facelessuser/coloraide](https://github.com/facelessuser/coloraide) | Fix CSS color functions accepting a trailing comma | [#537](https://github.com/facelessuser/coloraide/pull/537) | 0 |
 | 2026-10-25 | [stern/stern](https://github.com/stern/stern) | fix: keep numbers as written in extractJSONParts and prettyJSON | [#400](https://github.com/stern/stern/pull/400) | 0 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(properties): validate the tag of a reference that has a digest | [#1718](https://github.com/oras-project/oras-go/pull/1718) | 0 |
 | 2026-10-25 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix `:lang()` using an ancestor's language for an empty `lang` | [#330](https://github.com/facelessuser/soupsieve/pull/330) | 0 |
