@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-250 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
+252 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-25 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: document the Vault engine\_version parameter | [#1140](https://github.com/burningalchemist/sql_exporter/pull/1140) | 0 |
+| 2026-10-25 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: correct the gcpsecretmanager reference syntax | [#1139](https://github.com/burningalchemist/sql_exporter/pull/1139) | 0 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(credentials): use the config file for an empty credHelpers entry | [#1721](https://github.com/oras-project/oras-go/pull/1721) | 0 |
 | 2026-10-25 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(influxunifi): drop the state field from the UDM access point | [#1122](https://github.com/unpoller/unpoller/pull/1122) | 0 |
 | 2026-10-25 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(datadogunifi): prefix system temperature sensors with temp\_ | [#1121](https://github.com/unpoller/unpoller/pull/1121) | 0 |
