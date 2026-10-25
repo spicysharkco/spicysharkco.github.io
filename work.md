@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-221 merged pull requests in 72 repositories under 59 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-24.
+223 merged pull requests in 74 repositories under 60 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-25.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-24 | [alitto/pond](https://github.com/alitto/pond) | fix(pool): skip queued Go tasks when the pool context is canceled | [#150](https://github.com/alitto/pond/pull/150) | 6 |
+| 2026-10-24 | [apache/iceberg-rust](https://github.com/apache/iceberg-rust) | fix(spec): read float JSON values like iceberg-java | [#3476](https://github.com/apache/iceberg-rust/pull/3476) | 8 |
 | 2026-10-24 | [facelessuser/backrefs](https://github.com/facelessuser/backrefs) | Fix errors from an empty format spec in format replace templates | [#207](https://github.com/facelessuser/backrefs/pull/207) | 0 |
 | 2026-10-24 | [stern/stern](https://github.com/stern/stern) | fix: honor Kubernetes and throttling options in config files | [#398](https://github.com/stern/stern/pull/398) | 0 |
 | 2026-10-24 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: build with -tags nomysql | [#1137](https://github.com/burningalchemist/sql_exporter/pull/1137) | 0 |
