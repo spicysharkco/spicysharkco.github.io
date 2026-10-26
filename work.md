@@ -3,10 +3,29 @@ layout: page
 title: Work
 permalink: /work/
 ---
-261 merged pull requests in 78 repositories under 64 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-26.
+280 merged pull requests in 84 repositories under 70 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-26.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-26 | [dlclark/regexp2](https://github.com/dlclark/regexp2) | Fix group names when explicit group numbers leave gaps | [#138](https://github.com/dlclark/regexp2/pull/138) | 0 |
+| 2026-10-26 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix(p/BIND): bug: Writing zonefile mangles "repeated zone" labels | [#5037](https://github.com/DNSControl/dnscontrol/pull/5037) | 0 |
+| 2026-10-26 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix(IGNORE): bug: \*.foo and \*\*.foo both act like \*\*.foo (\*.foo has no "stop" pattern) | [#5038](https://github.com/DNSControl/dnscontrol/pull/5038) | 0 |
+| 2026-10-26 | [r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse) | docs: pass extra\_types by keyword in Custom Type Conversions | [#270](https://github.com/r1chardj0n3s/parse/pull/270) | 0 |
+| 2026-10-26 | [dop251/goja](https://github.com/dop251/goja) | Convert 0x, 0o and 0b strings that do not fit into int64 to numbers | [#827](https://github.com/dop251/goja/pull/827) | 0 |
+| 2026-10-26 | [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) | fix: pass imagePullPolicy to the ThanosRuler config-reloader | [#8916](https://github.com/prometheus-operator/prometheus-operator/pull/8916) | 0 |
+| 2026-10-26 | [dop251/goja](https://github.com/dop251/goja) | Use six digit years outside 0 to 9999 in Date.prototype.toISOString | [#826](https://github.com/dop251/goja/pull/826) | 0 |
+| 2026-10-26 | [alecthomas/chroma](https://github.com/alecthomas/chroma) | fix(lexers): accept all ECMAScript regex flags in JavaScript and TypeScript | [#1417](https://github.com/alecthomas/chroma/pull/1417) | 0 |
+| 2026-10-26 | [alecthomas/chroma](https://github.com/alecthomas/chroma) | fix(lexers): match all TOML date and time forms | [#1418](https://github.com/alecthomas/chroma/pull/1418) | 0 |
+| 2026-10-26 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(datadogunifi): read the upgradable key for switch firmware updates | [#1128](https://github.com/unpoller/unpoller/pull/1128) | 0 |
+| 2026-10-26 | [securego/gosec](https://github.com/securego/gosec) | fix(G104): match renamed imports of allowlisted packages | [#1805](https://github.com/securego/gosec/pull/1805) | 0 |
+| 2026-10-26 | [ron-rs/ron](https://github.com/ron-rs/ron) | docs: enable the extension in two examples of extensions.md | [#645](https://github.com/ron-rs/ron/pull/645) | 0 |
+| 2026-10-26 | [urfave/cli](https://github.com/urfave/cli) | docs: say the last value wins when a flag is given in two forms | [#2508](https://github.com/urfave/cli/pull/2508) | 0 |
+| 2026-10-26 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: match the io\_stall example comments to the names it produces | [#1143](https://github.com/burningalchemist/sql_exporter/pull/1143) | 0 |
+| 2026-10-26 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | fix(cli): match every word of a multi-word search | [#1188](https://github.com/AlexsJones/llmfit/pull/1188) | 0 |
+| 2026-10-26 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | fix(models): score F32 like F16 instead of a 4-bit quant | [#1186](https://github.com/AlexsJones/llmfit/pull/1186) | 0 |
+| 2026-10-26 | [zip-rs/zip2](https://github.com/zip-rs/zip2) | fix(write): reject deflate levels below 10 when only zopfli is enabled | [#1182](https://github.com/zip-rs/zip2/pull/1182) | 0 |
+| 2026-10-26 | [saphyr-rs/saphyr](https://github.com/saphyr-rs/saphyr) | fix(emitter): quote strings holding a byte order mark | [#145](https://github.com/saphyr-rs/saphyr/pull/145) | 0 |
+| 2026-10-26 | [zip-rs/zip2](https://github.com/zip-rs/zip2) | docs: correct the minimum compression level for Deflated and Bzip2 | [#1181](https://github.com/zip-rs/zip2/pull/1181) | 0 |
 | 2026-10-26 | [urfave/cli](https://github.com/urfave/cli) | docs: correct the comment on the Local flag field | [#2507](https://github.com/urfave/cli/pull/2507) | 0 |
 | 2026-10-26 | [zip-rs/zip2](https://github.com/zip-rs/zip2) | fix: preserve the file kind (normal/directory/symlink) in raw_copy_file_touch | [#1179](https://github.com/zip-rs/zip2/pull/1179) | 0 |
 | 2026-10-26 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(otelunifi): record client radio rates in bits per second | [#1125](https://github.com/unpoller/unpoller/pull/1125) | 0 |
