@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-259 merged pull requests in 76 repositories under 62 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-26.
+260 merged pull requests in 77 repositories under 63 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-26.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-26 | [zip-rs/zip2](https://github.com/zip-rs/zip2) | fix: preserve the file kind (normal/directory/symlink) in raw_copy_file_touch | [#1179](https://github.com/zip-rs/zip2/pull/1179) | 0 |
 | 2026-10-26 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(otelunifi): record client radio rates in bits per second | [#1125](https://github.com/unpoller/unpoller/pull/1125) | 0 |
 | 2026-10-26 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(otelunifi): record the operating radio channel and tx power | [#1126](https://github.com/unpoller/unpoller/pull/1126) | 0 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(credentials): remove the plain-text entry when deleting through a helper | [#1722](https://github.com/oras-project/oras-go/pull/1722) | 0 |
