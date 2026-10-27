@@ -3,10 +3,26 @@ layout: page
 title: Work
 permalink: /work/
 ---
-280 merged pull requests in 84 repositories under 70 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-26.
+297 merged pull requests in 89 repositories under 73 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-27.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-10-27 | [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) | Fix escaped Snippets markers before section starts | [#3010](https://github.com/facelessuser/pymdown-extensions/pull/3010) | 4 |
+| 2026-10-27 | [simplejson/simplejson](https://github.com/simplejson/simplejson) | Name the value in the C encoder's out-of-range float error | [#399](https://github.com/simplejson/simplejson/pull/399) | 1 |
+| 2026-10-27 | [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) | 🐛 Stop checking kubelet version against an empty version | [#14375](https://github.com/kubernetes-sigs/cluster-api/pull/14375) | 11 |
+| 2026-10-27 | [benbjohnson/litestream](https://github.com/benbjohnson/litestream) | fix(webdav): read LTX header timestamps for timestamp-based restore | [#1576](https://github.com/benbjohnson/litestream/pull/1576) | 12 |
+| 2026-10-27 | [benbjohnson/litestream](https://github.com/benbjohnson/litestream) | fix(ci): pass -replica-clients to the integration test jobs | [#1575](https://github.com/benbjohnson/litestream/pull/1575) | 12 |
+| 2026-10-27 | [dpranke/pyjson5](https://github.com/dpranke/pyjson5) | pass the exponent marker to parse\_float as written | [#134](https://github.com/dpranke/pyjson5/pull/134) | 1 |
+| 2026-10-27 | [pgplex/pgschema](https://github.com/pgplex/pgschema) | fix: preserve MATCH FULL on foreign keys | [#662](https://github.com/pgplex/pgschema/pull/662) | 9 |
+| 2026-10-27 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Read every global concurrency limit in \`prefect transfer\` | [#23456](https://github.com/PrefectHQ/prefect/pull/23456) | 7 |
+| 2026-10-27 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Apply both \`any\_\` and \`not\_any\_\` in flow run state filters | [#23459](https://github.com/PrefectHQ/prefect/pull/23459) | 7 |
+| 2026-10-26 | [helmfile/helmfile](https://github.com/helmfile/helmfile) | fix: keep backslashes in release set and setString values | [#2856](https://github.com/helmfile/helmfile/pull/2856) | 1 |
+| 2026-10-26 | [redis/go-redis](https://github.com/redis/go-redis) | fix(cluster): accept a null host in CLUSTER SLOTS | [#4131](https://github.com/redis/go-redis/pull/4131) | 9 |
+| 2026-10-26 | [go-co-op/gocron](https://github.com/go-co-op/gocron) | fix(executor): drop stale next runs when the elector skips a run | [#971](https://github.com/go-co-op/gocron/pull/971) | 6 |
+| 2026-10-26 | [go-co-op/gocron](https://github.com/go-co-op/gocron) | fix(job): stop MonthlyJob searching forever when no month has the day | [#970](https://github.com/go-co-op/gocron/pull/970) | 6 |
+| 2026-10-26 | [go-co-op/gocron](https://github.com/go-co-op/gocron) | fix(scheduler): drop stale next runs when the scheduler restarts | [#969](https://github.com/go-co-op/gocron/pull/969) | 6 |
+| 2026-10-26 | [AlexsJones/llmserve](https://github.com/AlexsJones/llmserve) | fix: look for MLX models in $HF\_HOME/hub | [#61](https://github.com/AlexsJones/llmserve/pull/61) | 5 |
+| 2026-10-26 | [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium) | fix(controller): preserve namespace for agent-requested schedules | [#672](https://github.com/sympozium-ai/sympozium/pull/672) | 5 |
 | 2026-10-26 | [dlclark/regexp2](https://github.com/dlclark/regexp2) | Fix group names when explicit group numbers leave gaps | [#138](https://github.com/dlclark/regexp2/pull/138) | 0 |
 | 2026-10-26 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix(p/BIND): bug: Writing zonefile mangles "repeated zone" labels | [#5037](https://github.com/DNSControl/dnscontrol/pull/5037) | 0 |
 | 2026-10-26 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix(IGNORE): bug: \*.foo and \*\*.foo both act like \*\*.foo (\*.foo has no "stop" pattern) | [#5038](https://github.com/DNSControl/dnscontrol/pull/5038) | 0 |
@@ -30,6 +46,7 @@ permalink: /work/
 | 2026-10-26 | [zip-rs/zip2](https://github.com/zip-rs/zip2) | fix: preserve the file kind (normal/directory/symlink) in raw_copy_file_touch | [#1179](https://github.com/zip-rs/zip2/pull/1179) | 0 |
 | 2026-10-26 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(otelunifi): record client radio rates in bits per second | [#1125](https://github.com/unpoller/unpoller/pull/1125) | 0 |
 | 2026-10-26 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(otelunifi): record the operating radio channel and tx power | [#1126](https://github.com/unpoller/unpoller/pull/1126) | 0 |
+| 2026-10-25 | [prometheus-community/elasticsearch\_exporter](https://github.com/prometheus-community/elasticsearch_exporter) | fix(collector): mark HTTP error responses as failed scrapes | [#1261](https://github.com/prometheus-community/elasticsearch_exporter/pull/1261) | 4 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(credentials): remove the plain-text entry when deleting through a helper | [#1722](https://github.com/oras-project/oras-go/pull/1722) | 0 |
 | 2026-10-25 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: name the value\_label key correctly | [#1142](https://github.com/burningalchemist/sql_exporter/pull/1142) | 0 |
 | 2026-10-25 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(otelunifi): record switch port PoE current in amps | [#1124](https://github.com/unpoller/unpoller/pull/1124) | 0 |
