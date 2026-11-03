@@ -3,10 +3,37 @@ layout: page
 title: Work
 permalink: /work/
 ---
-297 merged pull requests in 89 repositories under 73 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-10-27.
+321 merged pull requests in 104 repositories under 84 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-03.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-03 | [linkerd/linkerd2](https://github.com/linkerd/linkerd2) | fix(inject): inherit beta native sidecar annotation from namespace | [#15734](https://github.com/linkerd/linkerd2/pull/15734) | 13 |
+| 2026-11-02 | [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) | fix(istio): respect custom annotation prefixes for ingress targets | [#6819](https://github.com/kubernetes-sigs/external-dns/pull/6819) | 16 |
+| 2026-11-02 | [nats-io/nats.py](https://github.com/nats-io/nats.py) | Parse V2 ACK subjects in ordered consumers and object store get | [#1071](https://github.com/nats-io/nats.py/pull/1071) | 17 |
+| 2026-11-01 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | recorder: fix channel count of Opus tracks in MPEG-TS recordings | [#6386](https://github.com/bluenviron/mediamtx/pull/6386) | 12 |
+| 2026-11-01 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | stream: fix offline audio of 3 to 8 channel always-available AAC tracks | [#6418](https://github.com/bluenviron/mediamtx/pull/6418) | 6 |
+| 2026-10-31 | [helmfile/helmfile](https://github.com/helmfile/helmfile) | fix: align state-values-set empty input and key validation | [#2864](https://github.com/helmfile/helmfile/pull/2864) | 0 |
+| 2026-10-30 | [prometheus/client\_python](https://github.com/prometheus/client_python) | Parse escaped quotes in OpenMetrics exemplar label values | [#1230](https://github.com/prometheus/client_python/pull/1230) | 13 |
+| 2026-10-30 | [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | app/vmselect: running\_avg, range\_avg: count only non-NaN points | [#11823](https://github.com/VictoriaMetrics/VictoriaMetrics/pull/11823) | 4 |
+| 2026-10-30 | [kubeai-project/kubeai](https://github.com/kubeai-project/kubeai) | fix: refresh endpoint addresses | [#766](https://github.com/kubeai-project/kubeai/pull/766) | 13 |
+| 2026-10-30 | [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) | fix: use the HPA namespace in the resource-configured message | [#1847](https://github.com/k8sgpt-ai/k8sgpt/pull/1847) | 11 |
+| 2026-10-30 | [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) | fix: keep analyzer warnings off stdout | [#1849](https://github.com/k8sgpt-ai/k8sgpt/pull/1849) | 10 |
+| 2026-10-30 | [helmfile/helmfile](https://github.com/helmfile/helmfile) | fix: report malformed --state-values-set-string assignments | [#2855](https://github.com/helmfile/helmfile/pull/2855) | 4 |
+| 2026-10-29 | [psycopg/psycopg](https://github.com/psycopg/psycopg) | fix: don't create reference cycles dumping lists as arrays | [#1443](https://github.com/psycopg/psycopg/pull/1443) | 14 |
+| 2026-10-29 | [chardet/chardet](https://github.com/chardet/chardet) | Keep the prefer\_superset remap inside the requested encoding\_era | [#414](https://github.com/chardet/chardet/pull/414) | 3 |
+| 2026-10-29 | [neuml/txtai](https://github.com/neuml/txtai) | Fix Segmentation paragraph and section splits on whitespace-only blank lines | [#1441](https://github.com/neuml/txtai/pull/1441) | 12 |
+| 2026-10-29 | [dpranke/pyjson5](https://github.com/dpranke/pyjson5) | send bytes-like objects to default() instead of encoding them as arrays | [#133](https://github.com/dpranke/pyjson5/pull/133) | 4 |
+| 2026-10-29 | [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) | fix(svg): keep spanned columns drawn in rows without the merge | [#350](https://github.com/olekukonko/tablewriter/pull/350) | 3 |
+| 2026-10-29 | [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) | renderer: keep column separators around auto-hidden columns | [#349](https://github.com/olekukonko/tablewriter/pull/349) | 3 |
+| 2026-10-29 | [flyteorg/flyte](https://github.com/flyteorg/flyte) | fix(storage): treat ConstructReference keys as literal path segments | [#8195](https://github.com/flyteorg/flyte/pull/8195) | 9 |
+| 2026-10-28 | [psycopg/psycopg](https://github.com/psycopg/psycopg) | fix: keep microseconds loading intervals with many hours | [#1446](https://github.com/psycopg/psycopg/pull/1446) | 12 |
+| 2026-10-28 | [k3s-io/k3s](https://github.com/k3s-io/k3s) | Remove temporary etcd datastore copy when opening it fails | [#14837](https://github.com/k3s-io/k3s/pull/14837) | 11 |
+| 2026-10-28 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | Report unchecked errors whose result type is a type alias | [#293](https://github.com/kisielk/errcheck/pull/293) | 1 |
+| 2026-10-28 | [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) | Fix random TAS flavor order in the ClusterQueue TopologyNotFound message | [#17392](https://github.com/kubernetes-sigs/kueue/pull/17392) | 9 |
+| 2026-10-28 | [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) | Fix MagicLink dropping the closing parenthesis of URLs | [#3014](https://github.com/facelessuser/pymdown-extensions/pull/3014) | 3 |
+| 2026-10-28 | [antchfx/xpath](https://github.com/antchfx/xpath) | Support positional predicates on the attribute axis | [#171](https://github.com/antchfx/xpath/pull/171) | 2 |
+| 2026-10-28 | [VictoriaMetrics/operator](https://github.com/VictoriaMetrics/operator) | vmprobe: apply relabelings of the scrape class | [#2738](https://github.com/VictoriaMetrics/operator/pull/2738) | 10 |
+| 2026-10-28 | [rthalley/dnspython](https://github.com/rthalley/dnspython) | end a line at a carriage return in the tokenizer | [#1387](https://github.com/rthalley/dnspython/pull/1387) | 1 |
 | 2026-10-27 | [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) | Fix escaped Snippets markers before section starts | [#3010](https://github.com/facelessuser/pymdown-extensions/pull/3010) | 4 |
 | 2026-10-27 | [simplejson/simplejson](https://github.com/simplejson/simplejson) | Name the value in the C encoder's out-of-range float error | [#399](https://github.com/simplejson/simplejson/pull/399) | 1 |
 | 2026-10-27 | [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) | 🐛 Stop checking kubelet version against an empty version | [#14375](https://github.com/kubernetes-sigs/cluster-api/pull/14375) | 11 |
@@ -17,12 +44,6 @@ permalink: /work/
 | 2026-10-27 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Read every global concurrency limit in \`prefect transfer\` | [#23456](https://github.com/PrefectHQ/prefect/pull/23456) | 7 |
 | 2026-10-27 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Apply both \`any\_\` and \`not\_any\_\` in flow run state filters | [#23459](https://github.com/PrefectHQ/prefect/pull/23459) | 7 |
 | 2026-10-26 | [helmfile/helmfile](https://github.com/helmfile/helmfile) | fix: keep backslashes in release set and setString values | [#2856](https://github.com/helmfile/helmfile/pull/2856) | 1 |
-| 2026-10-26 | [redis/go-redis](https://github.com/redis/go-redis) | fix(cluster): accept a null host in CLUSTER SLOTS | [#4131](https://github.com/redis/go-redis/pull/4131) | 9 |
-| 2026-10-26 | [go-co-op/gocron](https://github.com/go-co-op/gocron) | fix(executor): drop stale next runs when the elector skips a run | [#971](https://github.com/go-co-op/gocron/pull/971) | 6 |
-| 2026-10-26 | [go-co-op/gocron](https://github.com/go-co-op/gocron) | fix(job): stop MonthlyJob searching forever when no month has the day | [#970](https://github.com/go-co-op/gocron/pull/970) | 6 |
-| 2026-10-26 | [go-co-op/gocron](https://github.com/go-co-op/gocron) | fix(scheduler): drop stale next runs when the scheduler restarts | [#969](https://github.com/go-co-op/gocron/pull/969) | 6 |
-| 2026-10-26 | [AlexsJones/llmserve](https://github.com/AlexsJones/llmserve) | fix: look for MLX models in $HF\_HOME/hub | [#61](https://github.com/AlexsJones/llmserve/pull/61) | 5 |
-| 2026-10-26 | [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium) | fix(controller): preserve namespace for agent-requested schedules | [#672](https://github.com/sympozium-ai/sympozium/pull/672) | 5 |
 | 2026-10-26 | [dlclark/regexp2](https://github.com/dlclark/regexp2) | Fix group names when explicit group numbers leave gaps | [#138](https://github.com/dlclark/regexp2/pull/138) | 0 |
 | 2026-10-26 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix(p/BIND): bug: Writing zonefile mangles "repeated zone" labels | [#5037](https://github.com/DNSControl/dnscontrol/pull/5037) | 0 |
 | 2026-10-26 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix(IGNORE): bug: \*.foo and \*\*.foo both act like \*\*.foo (\*.foo has no "stop" pattern) | [#5038](https://github.com/DNSControl/dnscontrol/pull/5038) | 0 |
@@ -30,32 +51,35 @@ permalink: /work/
 | 2026-10-26 | [dop251/goja](https://github.com/dop251/goja) | Convert 0x, 0o and 0b strings that do not fit into int64 to numbers | [#827](https://github.com/dop251/goja/pull/827) | 0 |
 | 2026-10-26 | [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) | fix: pass imagePullPolicy to the ThanosRuler config-reloader | [#8916](https://github.com/prometheus-operator/prometheus-operator/pull/8916) | 0 |
 | 2026-10-26 | [dop251/goja](https://github.com/dop251/goja) | Use six digit years outside 0 to 9999 in Date.prototype.toISOString | [#826](https://github.com/dop251/goja/pull/826) | 0 |
+| 2026-10-26 | [redis/go-redis](https://github.com/redis/go-redis) | fix(cluster): accept a null host in CLUSTER SLOTS | [#4131](https://github.com/redis/go-redis/pull/4131) | 9 |
 | 2026-10-26 | [alecthomas/chroma](https://github.com/alecthomas/chroma) | fix(lexers): accept all ECMAScript regex flags in JavaScript and TypeScript | [#1417](https://github.com/alecthomas/chroma/pull/1417) | 0 |
 | 2026-10-26 | [alecthomas/chroma](https://github.com/alecthomas/chroma) | fix(lexers): match all TOML date and time forms | [#1418](https://github.com/alecthomas/chroma/pull/1418) | 0 |
 | 2026-10-26 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(datadogunifi): read the upgradable key for switch firmware updates | [#1128](https://github.com/unpoller/unpoller/pull/1128) | 0 |
+| 2026-10-26 | [go-co-op/gocron](https://github.com/go-co-op/gocron) | fix(executor): drop stale next runs when the elector skips a run | [#971](https://github.com/go-co-op/gocron/pull/971) | 6 |
 | 2026-10-26 | [securego/gosec](https://github.com/securego/gosec) | fix(G104): match renamed imports of allowlisted packages | [#1805](https://github.com/securego/gosec/pull/1805) | 0 |
 | 2026-10-26 | [ron-rs/ron](https://github.com/ron-rs/ron) | docs: enable the extension in two examples of extensions.md | [#645](https://github.com/ron-rs/ron/pull/645) | 0 |
+| 2026-10-26 | [go-co-op/gocron](https://github.com/go-co-op/gocron) | fix(job): stop MonthlyJob searching forever when no month has the day | [#970](https://github.com/go-co-op/gocron/pull/970) | 6 |
+| 2026-10-26 | [go-co-op/gocron](https://github.com/go-co-op/gocron) | fix(scheduler): drop stale next runs when the scheduler restarts | [#969](https://github.com/go-co-op/gocron/pull/969) | 6 |
 | 2026-10-26 | [urfave/cli](https://github.com/urfave/cli) | docs: say the last value wins when a flag is given in two forms | [#2508](https://github.com/urfave/cli/pull/2508) | 0 |
 | 2026-10-26 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: match the io\_stall example comments to the names it produces | [#1143](https://github.com/burningalchemist/sql_exporter/pull/1143) | 0 |
+| 2026-10-26 | [AlexsJones/llmserve](https://github.com/AlexsJones/llmserve) | fix: look for MLX models in $HF\_HOME/hub | [#61](https://github.com/AlexsJones/llmserve/pull/61) | 5 |
 | 2026-10-26 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | fix(cli): match every word of a multi-word search | [#1188](https://github.com/AlexsJones/llmfit/pull/1188) | 0 |
 | 2026-10-26 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | fix(models): score F32 like F16 instead of a 4-bit quant | [#1186](https://github.com/AlexsJones/llmfit/pull/1186) | 0 |
+| 2026-10-26 | [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium) | fix(controller): preserve namespace for agent-requested schedules | [#672](https://github.com/sympozium-ai/sympozium/pull/672) | 5 |
 | 2026-10-26 | [zip-rs/zip2](https://github.com/zip-rs/zip2) | fix(write): reject deflate levels below 10 when only zopfli is enabled | [#1182](https://github.com/zip-rs/zip2/pull/1182) | 0 |
 | 2026-10-26 | [saphyr-rs/saphyr](https://github.com/saphyr-rs/saphyr) | fix(emitter): quote strings holding a byte order mark | [#145](https://github.com/saphyr-rs/saphyr/pull/145) | 0 |
 | 2026-10-26 | [zip-rs/zip2](https://github.com/zip-rs/zip2) | docs: correct the minimum compression level for Deflated and Bzip2 | [#1181](https://github.com/zip-rs/zip2/pull/1181) | 0 |
 | 2026-10-26 | [urfave/cli](https://github.com/urfave/cli) | docs: correct the comment on the Local flag field | [#2507](https://github.com/urfave/cli/pull/2507) | 0 |
-| 2026-10-26 | [zip-rs/zip2](https://github.com/zip-rs/zip2) | fix: preserve the file kind (normal/directory/symlink) in raw_copy_file_touch | [#1179](https://github.com/zip-rs/zip2/pull/1179) | 0 |
+| 2026-10-26 | [zip-rs/zip2](https://github.com/zip-rs/zip2) | fix: preserve the file kind (normal/directory/symlink) in raw\_copy\_file\_touch | [#1179](https://github.com/zip-rs/zip2/pull/1179) | 0 |
 | 2026-10-26 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(otelunifi): record client radio rates in bits per second | [#1125](https://github.com/unpoller/unpoller/pull/1125) | 0 |
 | 2026-10-26 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(otelunifi): record the operating radio channel and tx power | [#1126](https://github.com/unpoller/unpoller/pull/1126) | 0 |
-| 2026-10-25 | [prometheus-community/elasticsearch\_exporter](https://github.com/prometheus-community/elasticsearch_exporter) | fix(collector): mark HTTP error responses as failed scrapes | [#1261](https://github.com/prometheus-community/elasticsearch_exporter/pull/1261) | 4 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(credentials): remove the plain-text entry when deleting through a helper | [#1722](https://github.com/oras-project/oras-go/pull/1722) | 0 |
 | 2026-10-25 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: name the value\_label key correctly | [#1142](https://github.com/burningalchemist/sql_exporter/pull/1142) | 0 |
-| 2026-10-25 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(otelunifi): record switch port PoE current in amps | [#1124](https://github.com/unpoller/unpoller/pull/1124) | 0 |
-| 2026-10-25 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix: skip null system temperature sensors | [#1123](https://github.com/unpoller/unpoller/pull/1123) | 0 |
 | 2026-10-25 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: add missing help and fix setting levels on the PgBouncer page | [#1141](https://github.com/burningalchemist/sql_exporter/pull/1141) | 0 |
 | 2026-10-25 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: document the Vault engine\_version parameter | [#1140](https://github.com/burningalchemist/sql_exporter/pull/1140) | 0 |
 | 2026-10-25 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | docs: correct the gcpsecretmanager reference syntax | [#1139](https://github.com/burningalchemist/sql_exporter/pull/1139) | 0 |
+| 2026-10-25 | [prometheus-community/elasticsearch\_exporter](https://github.com/prometheus-community/elasticsearch_exporter) | fix(collector): mark HTTP error responses as failed scrapes | [#1261](https://github.com/prometheus-community/elasticsearch_exporter/pull/1261) | 4 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(credentials): use the config file for an empty credHelpers entry | [#1721](https://github.com/oras-project/oras-go/pull/1721) | 0 |
-| 2026-10-25 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(influxunifi): drop the state field from the UDM access point | [#1122](https://github.com/unpoller/unpoller/pull/1122) | 0 |
 | 2026-10-25 | [unpoller/unpoller](https://github.com/unpoller/unpoller) | fix(datadogunifi): prefix system temperature sensors with temp\_ | [#1121](https://github.com/unpoller/unpoller/pull/1121) | 0 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(remote): match the referrers Content-Type as a media type | [#1720](https://github.com/oras-project/oras-go/pull/1720) | 0 |
 | 2026-10-25 | [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) | fix(D\_EXTEND): ignore the empty tag when extending a subdomain | [#5034](https://github.com/DNSControl/dnscontrol/pull/5034) | 3 |
@@ -64,15 +88,15 @@ permalink: /work/
 | 2026-10-25 | [facelessuser/backrefs](https://github.com/facelessuser/backrefs) | Fix error when casing a character escape gives two characters | [#208](https://github.com/facelessuser/backrefs/pull/208) | 1 |
 | 2026-10-25 | [facelessuser/bracex](https://github.com/facelessuser/bracex) | Fix invalid sequences splitting at a later comma | [#54](https://github.com/facelessuser/bracex/pull/54) | 0 |
 | 2026-10-25 | [facelessuser/coloraide](https://github.com/facelessuser/coloraide) | Fix case-sensitive keywords in CSS color() | [#538](https://github.com/facelessuser/coloraide/pull/538) | 0 |
+| 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(properties): validate the tag of a reference that has a digest | [#1718](https://github.com/oras-project/oras-go/pull/1718) | 0 |
+| 2026-10-25 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix \`:lang()\` using an ancestor's language for an empty \`lang\` | [#330](https://github.com/facelessuser/soupsieve/pull/330) | 0 |
+| 2026-10-25 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: resolve a secret reference given with -config.data-source-name | [#1138](https://github.com/burningalchemist/sql_exporter/pull/1138) | 0 |
+| 2026-10-25 | [stern/stern](https://github.com/stern/stern) | fix: keep numbers as written in extractJSONParts and prettyJSON | [#400](https://github.com/stern/stern/pull/400) | 0 |
+| 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(credentials): save through a symlinked config file | [#1716](https://github.com/oras-project/oras-go/pull/1716) | 0 |
 | 2026-10-25 | [facelessuser/backrefs](https://github.com/facelessuser/backrefs) | Fix Unicode properties missing CJK ideographs and Hangul syllables | [#209](https://github.com/facelessuser/backrefs/pull/209) | 0 |
 | 2026-10-25 | [facelessuser/coloraide](https://github.com/facelessuser/coloraide) | Fix CSS color functions accepting a trailing comma | [#537](https://github.com/facelessuser/coloraide/pull/537) | 0 |
-| 2026-10-25 | [stern/stern](https://github.com/stern/stern) | fix: keep numbers as written in extractJSONParts and prettyJSON | [#400](https://github.com/stern/stern/pull/400) | 0 |
-| 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(properties): validate the tag of a reference that has a digest | [#1718](https://github.com/oras-project/oras-go/pull/1718) | 0 |
-| 2026-10-25 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix `:lang()` using an ancestor's language for an empty `lang` | [#330](https://github.com/facelessuser/soupsieve/pull/330) | 0 |
-| 2026-10-25 | [burningalchemist/sql_exporter](https://github.com/burningalchemist/sql_exporter) | fix: resolve a secret reference given with -config.data-source-name | [#1138](https://github.com/burningalchemist/sql_exporter/pull/1138) | 0 |
-| 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(credentials): save through a symlinked config file | [#1716](https://github.com/oras-project/oras-go/pull/1716) | 0 |
 | 2026-10-25 | [facelessuser/wcmatch](https://github.com/facelessuser/wcmatch) | Fix glob matching a hidden name with a wildcard after a leading star | [#253](https://github.com/facelessuser/wcmatch/pull/253) | 0 |
-| 2026-10-25 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix `:dir()` ignoring the value of an input with a missing or empty type | [#331](https://github.com/facelessuser/soupsieve/pull/331) | 0 |
+| 2026-10-25 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix \`:dir()\` ignoring the value of an input with a missing or empty type | [#331](https://github.com/facelessuser/soupsieve/pull/331) | 0 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(remote): do not read a rejected reference with a repository path as a bare digest | [#1715](https://github.com/oras-project/oras-go/pull/1715) | 0 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(config): apply a registries.conf repository prefix to digest references | [#1714](https://github.com/oras-project/oras-go/pull/1714) | 0 |
 | 2026-10-25 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(auth): accept bearer challenge parameter names in other letter case | [#1713](https://github.com/oras-project/oras-go/pull/1713) | 0 |
@@ -105,7 +129,7 @@ permalink: /work/
 | 2026-10-23 | [helmfile/helmfile](https://github.com/helmfile/helmfile) | fix: honor release kubeVersion over the detected one in diff | [#2842](https://github.com/helmfile/helmfile/pull/2842) | 1 |
 | 2026-10-23 | [oras-project/oras-go](https://github.com/oras-project/oras-go) | fix(content/oci): report missing blobs referenced through present subjects | [#1670](https://github.com/oras-project/oras-go/pull/1670) | 0 |
 | 2026-10-23 | [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve) | Fix attribute inequality excluding values with a matching prefix | [#328](https://github.com/facelessuser/soupsieve/pull/328) | 0 |
-| 2026-10-23 | [facelessuser/bracex](https://github.com/facelessuser/bracex) | Fix ${...} ending brace groups early | [#53](https://github.com/facelessuser/bracex/pull/53) | 0 |
+| 2026-10-23 | [facelessuser/bracex](https://github.com/facelessuser/bracex) | Fix $&#123;...&#125; ending brace groups early | [#53](https://github.com/facelessuser/bracex/pull/53) | 0 |
 | 2026-10-23 | [burningalchemist/sql\_exporter](https://github.com/burningalchemist/sql_exporter) | fix: honor no\_prepared\_statement on query\_ref metrics | [#1131](https://github.com/burningalchemist/sql_exporter/pull/1131) | 0 |
 | 2026-10-23 | [facelessuser/coloraide](https://github.com/facelessuser/coloraide) | Fix CSS colors with two channels before the alpha slash | [#533](https://github.com/facelessuser/coloraide/pull/533) | 0 |
 | 2026-10-23 | [clastix/kamaji](https://github.com/clastix/kamaji) | fix(tcp): clear removed DataStore overrides | [#1389](https://github.com/clastix/kamaji/pull/1389) | 0 |
