@@ -3,10 +3,14 @@ layout: page
 title: Work
 permalink: /work/
 ---
-321 merged pull requests in 104 repositories under 84 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-03.
+325 merged pull requests in 107 repositories under 87 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-06.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-05 | [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) | crx: detect version 3 extensions | [#855](https://github.com/gabriel-vasile/mimetype/pull/855) | 10 |
+| 2026-11-05 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | perf(hook): use mimalloc as the global allocator on musl builds | [#4461](https://github.com/rtk-ai/rtk/pull/4461) | 30 |
+| 2026-11-03 | [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) | Do not panic when the backend channel is full | [#952](https://github.com/huggingface/text-embeddings-inference/pull/952) | 20 |
+| 2026-11-03 | [opencv/opencv](https://github.com/opencv/opencv) | core: fix FileStorage release leaks, state and unbalanced closing | [#30351](https://github.com/opencv/opencv/pull/30351) | 17 |
 | 2026-11-03 | [linkerd/linkerd2](https://github.com/linkerd/linkerd2) | fix(inject): inherit beta native sidecar annotation from namespace | [#15734](https://github.com/linkerd/linkerd2/pull/15734) | 13 |
 | 2026-11-02 | [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) | fix(istio): respect custom annotation prefixes for ingress targets | [#6819](https://github.com/kubernetes-sigs/external-dns/pull/6819) | 16 |
 | 2026-11-02 | [nats-io/nats.py](https://github.com/nats-io/nats.py) | Parse V2 ACK subjects in ordered consumers and object store get | [#1071](https://github.com/nats-io/nats.py/pull/1071) | 17 |
