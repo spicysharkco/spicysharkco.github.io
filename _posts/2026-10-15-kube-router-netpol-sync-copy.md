@@ -71,7 +71,7 @@ The two factors are not independent. `iptables-save` prints the chains the previ
 
 ## Measurements
 
-The "after" code is kube-router at the merge commit, `ecf5008a`. The "before" code is the same tree with the five deleted lines put back. The measurements come from scratch benchmarks built on the PR's test helpers and not sent upstream ([source](https://github.com/spicysharkco/spicysharkco.github.io/tree/main/code/kube-router-2192)). Each one builds N pods in one IP family and fills the filter buffer with synthetic policy rules to a given size. Then it times `syncPodFirewallChains`:
+The "after" code is kube-router at the merge commit, `ecf5008a`. The "before" code is the same tree with the five deleted lines put back. The measurements come from scratch benchmarks built on the PR's test helpers and not sent upstream ([source](https://github.com/spicysharkco/spicysharkco.github.io/tree/main/_code/kube-router-2192)). Each one builds N pods in one IP family and fills the filter buffer with synthetic policy rules to a given size. Then it times `syncPodFirewallChains`:
 
 ```go
 for b.Loop() {
