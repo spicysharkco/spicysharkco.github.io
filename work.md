@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-326 merged pull requests in 107 repositories under 87 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-07.
+327 merged pull requests in 108 repositories under 88 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-07.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-07 | [shirou/gopsutil](https://github.com/shirou/gopsutil) | \[process\]\[darwin\]: return real, effective and saved uids from Uids | [#2185](https://github.com/shirou/gopsutil/pull/2185) | 12 |
 | 2026-11-07 | [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) | fix: keep verbose and cache messages off stdout | [#1906](https://github.com/k8sgpt-ai/k8sgpt/pull/1906) | 4 |
 | 2026-11-05 | [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) | crx: detect version 3 extensions | [#855](https://github.com/gabriel-vasile/mimetype/pull/855) | 10 |
 | 2026-11-05 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | perf(hook): use mimalloc as the global allocator on musl builds | [#4461](https://github.com/rtk-ai/rtk/pull/4461) | 30 |
