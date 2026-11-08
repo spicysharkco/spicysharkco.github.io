@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-330 merged pull requests in 109 repositories under 89 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-08.
+331 merged pull requests in 109 repositories under 89 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-08.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-08 | [ome-projects/ome](https://github.com/ome-projects/ome) | \[Bugfix\] Sync BenchmarkJob start time without a state change | [#1235](https://github.com/ome-projects/ome/pull/1235) | 22 |
 | 2026-11-08 | [stern/stern](https://github.com/stern/stern) | fix: keep highlight matches out of color escape sequences | [#402](https://github.com/stern/stern/pull/402) | 13 |
 | 2026-11-08 | [stern/stern](https://github.com/stern/stern) | fix: apply --include and --exclude after splitting the stdin timestamp | [#404](https://github.com/stern/stern/pull/404) | 13 |
 | 2026-11-07 | [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) | fix(config): register viper defaults for env vars that were ignored | [#1461](https://github.com/falcosecurity/falcosidekick/pull/1461) | 18 |
