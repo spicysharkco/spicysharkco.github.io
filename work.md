@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-328 merged pull requests in 109 repositories under 89 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-07.
+330 merged pull requests in 109 repositories under 89 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-08.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-08 | [stern/stern](https://github.com/stern/stern) | fix: keep highlight matches out of color escape sequences | [#402](https://github.com/stern/stern/pull/402) | 13 |
+| 2026-11-08 | [stern/stern](https://github.com/stern/stern) | fix: apply --include and --exclude after splitting the stdin timestamp | [#404](https://github.com/stern/stern/pull/404) | 13 |
 | 2026-11-07 | [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) | fix(config): register viper defaults for env vars that were ignored | [#1461](https://github.com/falcosecurity/falcosidekick/pull/1461) | 18 |
 | 2026-11-07 | [shirou/gopsutil](https://github.com/shirou/gopsutil) | \[process\]\[darwin\]: return real, effective and saved uids from Uids | [#2185](https://github.com/shirou/gopsutil/pull/2185) | 12 |
 | 2026-11-07 | [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) | fix: keep verbose and cache messages off stdout | [#1906](https://github.com/k8sgpt-ai/k8sgpt/pull/1906) | 4 |
