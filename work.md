@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-331 merged pull requests in 109 repositories under 89 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-08.
+332 merged pull requests in 110 repositories under 90 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-09.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-09 | [containernetworking/plugins](https://github.com/containernetworking/plugins) | bridge: skip the IPAM CHECK when no IPAM plugin is configured | [#1318](https://github.com/containernetworking/plugins/pull/1318) | 2 |
 | 2026-11-08 | [ome-projects/ome](https://github.com/ome-projects/ome) | \[Bugfix\] Sync BenchmarkJob start time without a state change | [#1235](https://github.com/ome-projects/ome/pull/1235) | 22 |
 | 2026-11-08 | [stern/stern](https://github.com/stern/stern) | fix: keep highlight matches out of color escape sequences | [#402](https://github.com/stern/stern/pull/402) | 13 |
 | 2026-11-08 | [stern/stern](https://github.com/stern/stern) | fix: apply --include and --exclude after splitting the stdin timestamp | [#404](https://github.com/stern/stern/pull/404) | 13 |
