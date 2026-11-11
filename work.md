@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-337 merged pull requests in 113 repositories under 93 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-10.
+338 merged pull requests in 114 repositories under 94 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-11.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-11 | [urllib3/urllib3](https://github.com/urllib3/urllib3) | Fix gzip multi-member decoding after a bounded read | [#5315](https://github.com/urllib3/urllib3/pull/5315) | 25 |
 | 2026-11-10 | [sharkdp/bat](https://github.com/sharkdp/bat) | Ignore empty values for --ignored-suffix | [#4122](https://github.com/sharkdp/bat/pull/4122) | 0 |
 | 2026-11-10 | [feast-dev/feast](https://github.com/feast-dev/feast) | fix: Read None elements of UUID and Decimal lists as None | [#7039](https://github.com/feast-dev/feast/pull/7039) | 22 |
 | 2026-11-09 | [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) | fix(services): honour egress-detect-api-server set to false | [#1825](https://github.com/kube-vip/kube-vip/pull/1825) | 21 |
