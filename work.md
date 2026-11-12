@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-338 merged pull requests in 114 repositories under 94 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-11.
+339 merged pull requests in 114 repositories under 94 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-12.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-11 | [urllib3/urllib3](https://github.com/urllib3/urllib3) | Flush the decoder at EOF in HTTPResponse.read(amt) | [#5316](https://github.com/urllib3/urllib3/pull/5316) | 26 |
 | 2026-11-11 | [urllib3/urllib3](https://github.com/urllib3/urllib3) | Fix gzip multi-member decoding after a bounded read | [#5315](https://github.com/urllib3/urllib3/pull/5315) | 25 |
 | 2026-11-10 | [sharkdp/bat](https://github.com/sharkdp/bat) | Ignore empty values for --ignored-suffix | [#4122](https://github.com/sharkdp/bat/pull/4122) | 0 |
 | 2026-11-10 | [feast-dev/feast](https://github.com/feast-dev/feast) | fix: Read None elements of UUID and Decimal lists as None | [#7039](https://github.com/feast-dev/feast/pull/7039) | 22 |
