@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-341 merged pull requests in 116 repositories under 96 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-12.
+342 merged pull requests in 117 repositories under 97 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-12.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-12 | [docker/docker-agent](https://github.com/docker/docker-agent) | fix(rag): honor a YAML integer strategy limit | [#4646](https://github.com/docker/docker-agent/pull/4646) | 24 |
 | 2026-11-12 | [gpustack/gpustack](https://github.com/gpustack/gpustack) | fix(openai): read a false stream form field as non-streaming | [#6476](https://github.com/gpustack/gpustack/pull/6476) | 25 |
 | 2026-11-12 | [mr-karan/doggo](https://github.com/mr-karan/doggo) | fix(resolvers): set the response status on answers | [#265](https://github.com/mr-karan/doggo/pull/265) | 1 |
 | 2026-11-11 | [urllib3/urllib3](https://github.com/urllib3/urllib3) | Flush the decoder at EOF in HTTPResponse.read(amt) | [#5316](https://github.com/urllib3/urllib3/pull/5316) | 26 |
