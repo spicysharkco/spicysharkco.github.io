@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-344 merged pull requests in 118 repositories under 98 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-13.
+345 merged pull requests in 119 repositories under 99 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-13.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-13 | [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) | Use node hostname in out-of-turn job check | [#482](https://github.com/rancher/system-upgrade-controller/pull/482) | 3 |
 | 2026-11-13 | [velero-io/velero](https://github.com/velero-io/velero) | docs: fix the all-groups wildcard example for resource modifiers | [#10820](https://github.com/velero-io/velero/pull/10820) | 1 |
 | 2026-11-13 | [feast-dev/feast](https://github.com/feast-dev/feast) | fix: Stop feast plan and apply raising on a changed BatchFeatureView | [#7042](https://github.com/feast-dev/feast/pull/7042) | 25 |
 | 2026-11-12 | [docker/docker-agent](https://github.com/docker/docker-agent) | fix(rag): honor a YAML integer strategy limit | [#4646](https://github.com/docker/docker-agent/pull/4646) | 24 |
