@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-342 merged pull requests in 117 repositories under 97 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-12.
+343 merged pull requests in 117 repositories under 97 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-13.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-13 | [feast-dev/feast](https://github.com/feast-dev/feast) | fix: Stop feast plan and apply raising on a changed BatchFeatureView | [#7042](https://github.com/feast-dev/feast/pull/7042) | 25 |
 | 2026-11-12 | [docker/docker-agent](https://github.com/docker/docker-agent) | fix(rag): honor a YAML integer strategy limit | [#4646](https://github.com/docker/docker-agent/pull/4646) | 24 |
 | 2026-11-12 | [gpustack/gpustack](https://github.com/gpustack/gpustack) | fix(openai): read a false stream form field as non-streaming | [#6476](https://github.com/gpustack/gpustack/pull/6476) | 25 |
 | 2026-11-12 | [mr-karan/doggo](https://github.com/mr-karan/doggo) | fix(resolvers): set the response status on answers | [#265](https://github.com/mr-karan/doggo/pull/265) | 1 |
