@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-345 merged pull requests in 119 repositories under 99 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-13.
+347 merged pull requests in 121 repositories under 101 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-16.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-16 | [knadh/koanf](https://github.com/knadh/koanf) | Fix outdated float64 note in All, Raw and Get comments | [#468](https://github.com/knadh/koanf/pull/468) | 21 |
+| 2026-11-14 | [anchore/grype](https://github.com/anchore/grype) | fix(version): sort rpm caret versions above their base version | [#3812](https://github.com/anchore/grype/pull/3812) | 25 |
 | 2026-11-13 | [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) | Use node hostname in out-of-turn job check | [#482](https://github.com/rancher/system-upgrade-controller/pull/482) | 3 |
 | 2026-11-13 | [velero-io/velero](https://github.com/velero-io/velero) | docs: fix the all-groups wildcard example for resource modifiers | [#10820](https://github.com/velero-io/velero/pull/10820) | 1 |
 | 2026-11-13 | [feast-dev/feast](https://github.com/feast-dev/feast) | fix: Stop feast plan and apply raising on a changed BatchFeatureView | [#7042](https://github.com/feast-dev/feast/pull/7042) | 25 |
