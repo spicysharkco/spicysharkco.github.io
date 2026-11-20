@@ -3,10 +3,16 @@ layout: page
 title: Work
 permalink: /work/
 ---
-347 merged pull requests in 121 repositories under 101 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-16.
+353 merged pull requests in 125 repositories under 105 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-20.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-19 | [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) | fix: honor the quoted string color in log output | [#399](https://github.com/kubecolor/kubecolor/pull/399) | 7 |
+| 2026-11-19 | [flannel-io/flannel](https://github.com/flannel-io/flannel) | subnet/kube: emit lease update when one IP family changes | [#2610](https://github.com/flannel-io/flannel/pull/2610) | 12 |
+| 2026-11-19 | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | fix(node-scale-adjuster): avoid scaling pod name collisions | [#2439](https://github.com/kai-scheduler/KAI-Scheduler/pull/2439) | 33 |
+| 2026-11-19 | [ray-project/ray](https://github.com/ray-project/ray) | \[Serve\] Stop the \_\_wrapped\_\_ walk at non-callables | [#67117](https://github.com/ray-project/ray/pull/67117) | 33 |
+| 2026-11-18 | [prometheus-community/elasticsearch\_exporter](https://github.com/prometheus-community/elasticsearch_exporter) | fix(clustersettings): export watermarks configured as decimal percentages | [#1262](https://github.com/prometheus-community/elasticsearch_exporter/pull/1262) | 27 |
+| 2026-11-17 | [alecthomas/chroma](https://github.com/alecthomas/chroma) | fix(lexers): recognize colons in PromQL metric names | [#1495](https://github.com/alecthomas/chroma/pull/1495) | 0 |
 | 2026-11-16 | [knadh/koanf](https://github.com/knadh/koanf) | Fix outdated float64 note in All, Raw and Get comments | [#468](https://github.com/knadh/koanf/pull/468) | 21 |
 | 2026-11-14 | [anchore/grype](https://github.com/anchore/grype) | fix(version): sort rpm caret versions above their base version | [#3812](https://github.com/anchore/grype/pull/3812) | 25 |
 | 2026-11-13 | [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) | Use node hostname in out-of-turn job check | [#482](https://github.com/rancher/system-upgrade-controller/pull/482) | 3 |
