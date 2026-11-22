@@ -3,10 +3,13 @@ layout: page
 title: Work
 permalink: /work/
 ---
-353 merged pull requests in 125 repositories under 105 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-20.
+356 merged pull requests in 128 repositories under 108 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-22.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-22 | [dundee/gdu](https://github.com/dundee/gdu) | fix(analyze): mark unreadable directories in SQLite exports | [#777](https://github.com/dundee/gdu/pull/777) | 5 |
+| 2026-11-21 | [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | Tcsh: quote the current directory in init, z and zi | [#1366](https://github.com/ajeetdsouza/zoxide/pull/1366) | 4 |
+| 2026-11-20 | [metallb/metallb](https://github.com/metallb/metallb) | controller: skip the additional IP for single stack PreferDualStack services | [#3161](https://github.com/metallb/metallb/pull/3161) | 31 |
 | 2026-11-19 | [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) | fix: honor the quoted string color in log output | [#399](https://github.com/kubecolor/kubecolor/pull/399) | 7 |
 | 2026-11-19 | [flannel-io/flannel](https://github.com/flannel-io/flannel) | subnet/kube: emit lease update when one IP family changes | [#2610](https://github.com/flannel-io/flannel/pull/2610) | 12 |
 | 2026-11-19 | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | fix(node-scale-adjuster): avoid scaling pod name collisions | [#2439](https://github.com/kai-scheduler/KAI-Scheduler/pull/2439) | 33 |
