@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-356 merged pull requests in 128 repositories under 108 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-22.
+357 merged pull requests in 128 repositories under 108 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-23.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-23 | [minio/minio-go](https://github.com/minio/minio-go) | fix: fail PutObject when the reader is longer than its size | [#2334](https://github.com/minio/minio-go/pull/2334) | 32 |
 | 2026-11-22 | [dundee/gdu](https://github.com/dundee/gdu) | fix(analyze): mark unreadable directories in SQLite exports | [#777](https://github.com/dundee/gdu/pull/777) | 5 |
 | 2026-11-21 | [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | Tcsh: quote the current directory in init, z and zi | [#1366](https://github.com/ajeetdsouza/zoxide/pull/1366) | 4 |
 | 2026-11-20 | [metallb/metallb](https://github.com/metallb/metallb) | controller: skip the additional IP for single stack PreferDualStack services | [#3161](https://github.com/metallb/metallb/pull/3161) | 31 |
