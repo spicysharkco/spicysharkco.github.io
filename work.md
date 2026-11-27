@@ -3,10 +3,11 @@ layout: page
 title: Work
 permalink: /work/
 ---
-362 merged pull requests in 128 repositories under 108 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-27.
+363 merged pull requests in 128 repositories under 108 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-27.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-27 | [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) | fix: honor Behavior.TrimLine in WithConfig | [#372](https://github.com/olekukonko/tablewriter/pull/372) | 0 |
 | 2026-11-27 | [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) | fix: do not require resource limits on KEDA scale targets | [#1969](https://github.com/k8sgpt-ai/k8sgpt/pull/1969) | 0 |
 | 2026-11-27 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | fix(cluster): keep the Ray Dashboard port when init falls back to manual entry | [#1286](https://github.com/AlexsJones/llmfit/pull/1286) | 0 |
 | 2026-11-24 | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | fix(chart): honor global image pull policy by default | [#2440](https://github.com/kai-scheduler/KAI-Scheduler/pull/2440) | 38 |
