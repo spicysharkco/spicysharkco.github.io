@@ -3,10 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
-360 merged pull requests in 128 repositories under 108 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-26.
+362 merged pull requests in 128 repositories under 108 GitHub owners (organizations and users). Dates are UTC. Days counts whole 24-hour periods from open to merge. Updated 2026-11-27.
 
 | Merged | Repository | Pull request | Link | Days to merge |
 |---|---|---|---|---|
+| 2026-11-27 | [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) | fix: do not require resource limits on KEDA scale targets | [#1969](https://github.com/k8sgpt-ai/k8sgpt/pull/1969) | 0 |
+| 2026-11-27 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | fix(cluster): keep the Ray Dashboard port when init falls back to manual entry | [#1286](https://github.com/AlexsJones/llmfit/pull/1286) | 0 |
 | 2026-11-24 | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | fix(chart): honor global image pull policy by default | [#2440](https://github.com/kai-scheduler/KAI-Scheduler/pull/2440) | 38 |
 | 2026-11-24 | [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) | fix: accept repeated separators in ClusterCatalog image refs | [#1967](https://github.com/k8sgpt-ai/k8sgpt/pull/1967) | 0 |
 | 2026-11-24 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | fix(quality): match --roles names case-insensitively in quality runs | [#1278](https://github.com/AlexsJones/llmfit/pull/1278) | 0 |
